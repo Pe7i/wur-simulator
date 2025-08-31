@@ -21,7 +21,7 @@ venv/
 # OS
 .DS_Store
 
-# Data & models (pokud nechceš sdílet velké soubory)
+# Data & models 
 data/raw/
 *.joblib
 *.parquet

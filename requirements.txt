@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+pyarrow
+scikit-learn
+xgboost
+dash
