@@ -1,4 +1,3 @@
-# scripts/train_models.py
 from pathlib import Path
 import json
 import sys
@@ -8,7 +7,6 @@ print("🚀 Spouštím train_models.py")
 print("CWD:", Path.cwd())
 print("Python:", sys.version)
 
-# zajisti, že najdeme src/
 ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))

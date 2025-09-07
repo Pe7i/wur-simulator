@@ -162,7 +162,7 @@ def fit_and_evaluate(df: pd.DataFrame,
     full_report["report_path"] = str(report_path)
     return full_report
 
-# --- pomocné inspekční funkce pro 7.2 ---
+# --- helper functions for chapter 7.2 ---
 
 def split_indices_for_years(df: pd.DataFrame, target: str, train_years: list[int], valid_years: list[int]) -> tuple[np.ndarray, np.ndarray]:
     year_series = df.dropna(subset=[target])["year"].reset_index(drop=True)
