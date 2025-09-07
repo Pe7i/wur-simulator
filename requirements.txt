@@ -5,3 +5,4 @@ pyarrow
 scikit-learn
 xgboost
 dash
+scikit-optimize
