@@ -1,0 +1,11 @@
+params_id,step,MAE,RMSE,N
+changepoint_prior_scale=0.5|changepoint_range=0.8|n_changepoints=5|seasonality_mode=additive,1,3.5168864768087564,3.5168864768087564,1152
+changepoint_prior_scale=0.5|changepoint_range=0.8|n_changepoints=10|seasonality_mode=additive,1,3.5234093334373293,3.5234093334373293,1152
+changepoint_prior_scale=0.5|changepoint_range=0.8|n_changepoints=20|seasonality_mode=additive,1,3.5234093334373293,3.5234093334373293,1152
+changepoint_prior_scale=0.3|changepoint_range=0.8|n_changepoints=10|seasonality_mode=additive,1,3.609764916953944,3.609764916953944,1152
+changepoint_prior_scale=0.3|changepoint_range=0.8|n_changepoints=20|seasonality_mode=additive,1,3.609764916953944,3.609764916953944,1152
+changepoint_prior_scale=0.05|changepoint_range=0.8|n_changepoints=5|seasonality_mode=additive,2,4.4829053502725955,4.4829053502725955,1140
+changepoint_prior_scale=0.03|changepoint_range=0.8|n_changepoints=10|seasonality_mode=additive,2,4.490046184224861,4.490046184224861,1140
+changepoint_prior_scale=0.03|changepoint_range=0.8|n_changepoints=20|seasonality_mode=additive,2,4.490046184224861,4.490046184224861,1140
+changepoint_prior_scale=0.05|changepoint_range=0.8|n_changepoints=10|seasonality_mode=additive,2,4.491805231564449,4.491805231564449,1140
+changepoint_prior_scale=0.05|changepoint_range=0.8|n_changepoints=20|seasonality_mode=additive,2,4.491805231564449,4.491805231564449,1140
