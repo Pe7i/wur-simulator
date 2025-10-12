@@ -1,0 +1,26 @@
+{
+  "config": {
+    "model": "auto",
+    "horizon": 3,
+    "min_train_years": 6,
+    "prophet_params": {
+      "changepoint_prior_scale": 0.05,
+      "changepoint_range": 0.8,
+      "n_changepoints": 5,
+      "growth": "linear",
+      "seasonality_mode": "additive"
+    },
+    "auto_slope_thresh": 1.0
+  },
+  "data": "data/clean/wur_dataset.parquet",
+  "outputs": "outputs/final",
+  "env": {
+    "python": "3.10.8",
+    "platform": "macOS-15.6.1-x86_64-i386-64bit",
+    "numpy": "2.2.6",
+    "pandas": "2.3.2",
+    "sklearn": "1.7.2",
+    "prophet_available": true
+  },
+  "note": "Výběr modelu vychází z kap. 7.2–7.4. 'auto' preferuje naive; linear se volí při výrazném posledním trendu."
+}

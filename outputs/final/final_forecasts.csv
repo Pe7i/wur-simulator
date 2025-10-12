@@ -1,0 +1,2677 @@
+university,model,origin_last_year,year,forecast
+AGH University of Krakow,linear,2025,2026,30.789999999999964
+AGH University of Krakow,linear,2025,2027,32.635454545454195
+AGH University of Krakow,linear,2025,2028,34.48090909090888
+Aalborg University,naive,2025,2026,54.7
+Aalborg University,naive,2025,2027,54.7
+Aalborg University,naive,2025,2028,54.7
+Aalto University,linear,2025,2026,67.81999999999971
+Aalto University,linear,2025,2027,71.35454545454559
+Aalto University,linear,2025,2028,74.88909090909056
+Aarhus University,linear,2025,2026,66.97523809523818
+Aarhus University,linear,2025,2027,68.12130952380949
+Aarhus University,linear,2025,2028,69.26738095238125
+Aberystwyth University,naive,2025,2026,40.7
+Aberystwyth University,naive,2025,2027,40.7
+Aberystwyth University,naive,2025,2028,40.7
+"Adam Mickiewicz University, Poznań",linear,2025,2026,36.34666666666635
+"Adam Mickiewicz University, Poznań",linear,2025,2027,39.10060606060597
+"Adam Mickiewicz University, Poznań",linear,2025,2028,41.85454545454559
+Ain Shams University,linear,2025,2026,34.10555555555493
+Ain Shams University,linear,2025,2027,36.39555555555489
+Ain Shams University,linear,2025,2028,38.685555555554856
+Aix-Marseille University,naive,2025,2026,47.6
+Aix-Marseille University,naive,2025,2027,47.6
+Aix-Marseille University,naive,2025,2028,47.6
+Ajou University,linear,2025,2026,50.92999999999847
+Ajou University,linear,2025,2027,55.05909090908972
+Ajou University,linear,2025,2028,59.188181818180965
+Alexandria University,linear,2025,2026,23.863259668508285
+Alexandria University,linear,2025,2027,23.842486187845303
+Alexandria University,linear,2025,2028,23.821712707182314
+Alexandru Ioan Cuza University,naive,2025,2026,17.8
+Alexandru Ioan Cuza University,naive,2025,2027,17.8
+Alexandru Ioan Cuza University,naive,2025,2028,17.8
+Alfaisal University,linear,2025,2026,51.897222222222354
+Alfaisal University,linear,2025,2027,53.76555555555569
+Alfaisal University,linear,2025,2028,55.63388888888903
+Aligarh Muslim University,linear,2025,2026,44.36666666666679
+Aligarh Muslim University,linear,2025,2027,47.599696969697106
+Aligarh Muslim University,linear,2025,2028,50.832727272727425
+American University,naive,2025,2026,40.7
+American University,naive,2025,2027,40.7
+American University,naive,2025,2028,40.7
+American University in Cairo,linear,2025,2026,38.625
+American University in Cairo,linear,2025,2027,40.38333333333321
+American University in Cairo,linear,2025,2028,42.14166666666688
+American University of Beirut,naive,2025,2026,44.599999999999994
+American University of Beirut,naive,2025,2027,44.599999999999994
+American University of Beirut,naive,2025,2028,44.599999999999994
+American University of Sharjah,linear,2025,2026,45.63333333333412
+American University of Sharjah,linear,2025,2027,49.010303030303476
+American University of Sharjah,linear,2025,2028,52.38727272727283
+Amirkabir University of Technology,linear,2025,2026,57.14333333333343
+Amirkabir University of Technology,linear,2025,2027,61.429393939393776
+Amirkabir University of Technology,linear,2025,2028,65.71545454545412
+"Amity University, Noida",linear,2025,2026,38.2944444444438
+"Amity University, Noida",linear,2025,2027,41.661111111110586
+"Amity University, Noida",linear,2025,2028,45.027777777777374
+Anadolu University,linear,2025,2026,31.340000000000146
+Anadolu University,linear,2025,2027,33.80000000000018
+Anadolu University,linear,2025,2028,36.26000000000022
+Andhra University,naive,2024,2025,16.2
+Andhra University,naive,2024,2026,16.2
+Andhra University,naive,2024,2027,16.2
+Anglia Ruskin University (ARU),naive,2025,2026,44.599999999999994
+Anglia Ruskin University (ARU),naive,2025,2027,44.599999999999994
+Anglia Ruskin University (ARU),naive,2025,2028,44.599999999999994
+Ankara University,naive,2025,2026,17.8
+Ankara University,naive,2025,2027,17.8
+Ankara University,naive,2025,2028,17.8
+Aristotle University of Thessaloniki,naive,2025,2026,36.3
+Aristotle University of Thessaloniki,naive,2025,2027,36.3
+Aristotle University of Thessaloniki,naive,2025,2028,36.3
+Arizona State University (Tempe),naive,2025,2026,57.2
+Arizona State University (Tempe),naive,2025,2027,57.2
+Arizona State University (Tempe),naive,2025,2028,57.2
+"Asia University, Taiwan",linear,2025,2026,55.970000000001164
+"Asia University, Taiwan",linear,2025,2027,60.74636363636455
+"Asia University, Taiwan",linear,2025,2028,65.52272727272793
+Aston University,linear,2025,2026,55.96666666666715
+Aston University,linear,2025,2027,59.141515151515705
+Aston University,linear,2025,2028,62.31636363636335
+Athens University of Economics and Business,linear,2025,2026,38.94333333333316
+Athens University of Economics and Business,linear,2025,2027,40.937575757575814
+Athens University of Economics and Business,linear,2025,2028,42.93181818181802
+Atılım University,naive,2025,2026,17.8
+Atılım University,naive,2025,2027,17.8
+Atılım University,naive,2025,2028,17.8
+Auburn University,linear,2025,2026,49.303333333333285
+Auburn University,linear,2025,2027,52.819393939394104
+Auburn University,linear,2025,2028,56.33545454545492
+Auckland University of Technology,naive,2025,2026,47.6
+Auckland University of Technology,naive,2025,2027,47.6
+Auckland University of Technology,naive,2025,2028,47.6
+Austral University of Chile,linear,2025,2026,23.74333333333334
+Austral University of Chile,linear,2025,2027,24.803030303030482
+Austral University of Chile,linear,2025,2028,25.862727272727625
+Australian Catholic University,naive,2025,2026,47.6
+Australian Catholic University,naive,2025,2027,47.6
+Australian Catholic University,naive,2025,2028,47.6
+Australian National University,naive,2025,2026,70.7
+Australian National University,naive,2025,2027,70.7
+Australian National University,naive,2025,2028,70.7
+Autonomous University of Madrid,naive,2025,2026,50.2
+Autonomous University of Madrid,naive,2025,2027,50.2
+Autonomous University of Madrid,naive,2025,2028,50.2
+Babeş-Bolyai University,linear,2025,2026,32.696666666666715
+Babeş-Bolyai University,linear,2025,2027,34.558787878787825
+Babeş-Bolyai University,linear,2025,2028,36.420909090908935
+Bahauddin Zakariya University,linear,2025,2026,33.10138888888923
+Bahauddin Zakariya University,linear,2025,2027,35.7072222222223
+Bahauddin Zakariya University,linear,2025,2028,38.313055555555366
+Bangor University,linear,2025,2026,54.60333333333347
+Bangor University,linear,2025,2027,57.4757575757576
+Bangor University,linear,2025,2028,60.34818181818264
+Bar-Ilan University,linear,2025,2026,47.933333333333394
+Bar-Ilan University,linear,2025,2027,50.41666666666697
+Bar-Ilan University,linear,2025,2028,52.899999999999636
+Bauman Moscow State Technical University,linear,2025,2026,55.48999999999978
+Bauman Moscow State Technical University,linear,2025,2027,60.152727272727134
+Bauman Moscow State Technical University,linear,2025,2028,64.81545454545449
+Beijing Institute of Technology,linear,2025,2026,61.23999999999796
+Beijing Institute of Technology,linear,2025,2027,66.26818181818089
+Beijing Institute of Technology,linear,2025,2028,71.296363636362
+Belarusian State University,naive,2025,2026,17.8
+Belarusian State University,naive,2025,2027,17.8
+Belarusian State University,naive,2025,2028,17.8
+Benemérita Universidad Autónoma de Puebla,naive,2025,2026,17.8
+Benemérita Universidad Autónoma de Puebla,naive,2025,2027,17.8
+Benemérita Universidad Autónoma de Puebla,naive,2025,2028,17.8
+Bielefeld University,linear,2023,2024,56.48242677824237
+Bielefeld University,linear,2023,2025,58.400627615062604
+Bielefeld University,linear,2023,2026,60.31882845188238
+Bilkent University,naive,2025,2026,40.7
+Bilkent University,naive,2025,2027,40.7
+Bilkent University,naive,2025,2028,40.7
+"Birkbeck, University of London",linear,2025,2026,47.35546540110215
+"Birkbeck, University of London",linear,2025,2027,47.87939375382723
+"Birkbeck, University of London",linear,2025,2028,48.40332210655231
+"Birla Institute of Technology and Science, Pilani",linear,2025,2026,41.423333333333176
+"Birla Institute of Technology and Science, Pilani",linear,2025,2027,44.68303030303014
+"Birla Institute of Technology and Science, Pilani",linear,2025,2028,47.9427272727271
+Bond University,linear,2025,2026,51.922222222222445
+Bond University,linear,2025,2027,54.28555555555613
+Bond University,linear,2025,2028,56.648888888889815
+Boston College,linear,2025,2026,50.77571428571423
+Boston College,linear,2025,2027,51.00267857142853
+Boston College,linear,2025,2028,51.229642857142835
+Boston University,naive,2025,2026,70.6
+Boston University,naive,2025,2027,70.6
+Boston University,naive,2025,2028,70.6
+Bournemouth University,linear,2025,2026,60.5633333333335
+Bournemouth University,linear,2025,2027,65.09484848484863
+Bournemouth University,linear,2025,2028,69.62636363636375
+Boğaziçi University,linear,2025,2026,34.92045454545453
+Boğaziçi University,linear,2025,2027,35.04090909090908
+Boğaziçi University,linear,2025,2028,35.16136363636363
+Brandeis University,naive,2025,2026,47.6
+Brandeis University,naive,2025,2027,47.6
+Brandeis University,naive,2025,2028,47.6
+Brno University of Technology,linear,2025,2026,31.293333333333976
+Brno University of Technology,linear,2025,2027,33.36757575757656
+Brno University of Technology,linear,2025,2028,35.441818181819144
+Brown University,naive,2025,2026,73.8
+Brown University,naive,2025,2027,73.8
+Brown University,naive,2025,2028,73.8
+Brunel University of London,linear,2025,2026,57.863333333333685
+Brunel University of London,linear,2025,2027,61.12484848484837
+Brunel University of London,linear,2025,2028,64.38636363636397
+Budapest University of Technology and Economics,linear,2025,2026,27.783333333333303
+Budapest University of Technology and Economics,linear,2025,2027,29.39393939393949
+Budapest University of Technology and Economics,linear,2025,2028,31.004545454545678
+COMSATS University Islamabad,linear,2025,2026,42.415277777777646
+COMSATS University Islamabad,linear,2025,2027,44.4527777777771
+COMSATS University Islamabad,linear,2025,2028,46.490277777777465
+Cairo University,naive,2025,2026,36.3
+Cairo University,naive,2025,2027,36.3
+Cairo University,naive,2025,2028,36.3
+California Institute of Technology,naive,2025,2026,96.3
+California Institute of Technology,naive,2025,2027,96.3
+California Institute of Technology,naive,2025,2028,96.3
+Capital Medical University,linear,2025,2026,47.613333333333685
+Capital Medical University,linear,2025,2027,51.17030303030333
+Capital Medical University,linear,2025,2028,54.727272727272975
+Cardiff University,naive,2025,2026,57.2
+Cardiff University,naive,2025,2027,57.2
+Cardiff University,naive,2025,2028,57.2
+Carleton University,linear,2025,2026,50.469999999999345
+Carleton University,linear,2025,2027,53.593636363635596
+Carleton University,linear,2025,2028,56.71727272727276
+Carlos III University of Madrid,linear,2025,2026,39.793333333333976
+Carlos III University of Madrid,linear,2025,2027,42.31393939394002
+Carlos III University of Madrid,linear,2025,2028,44.83454545454606
+Carnegie Mellon University,linear,2025,2026,84.52571428571423
+Carnegie Mellon University,linear,2025,2027,84.97892857142847
+Carnegie Mellon University,linear,2025,2028,85.43214285714282
+Case Western Reserve University,naive,2025,2026,61.2
+Case Western Reserve University,naive,2025,2027,61.2
+Case Western Reserve University,naive,2025,2028,61.2
+Ca’ Foscari University of Venice,linear,2025,2026,49.47999999999956
+Ca’ Foscari University of Venice,linear,2025,2027,52.70727272727254
+Ca’ Foscari University of Venice,linear,2025,2028,55.934545454544605
+Central Queensland University,linear,2025,2026,46.98000000000047
+Central Queensland University,linear,2025,2027,49.76181818181885
+Central Queensland University,linear,2025,2028,52.543636363636324
+Chalmers University of Technology,linear,2025,2026,66.76000000000022
+Chalmers University of Technology,linear,2025,2027,70.48545454545456
+Chalmers University of Technology,linear,2025,2028,74.2109090909089
+Chang Gung University,linear,2025,2026,43.08666666666704
+Chang Gung University,linear,2025,2027,46.042424242424204
+Chang Gung University,linear,2025,2028,48.998181818182275
+Charité - Universitätsmedizin Berlin,naive,2025,2026,67.1
+Charité - Universitätsmedizin Berlin,naive,2025,2027,67.1
+Charité - Universitätsmedizin Berlin,naive,2025,2028,67.1
+Charles Darwin University,linear,2025,2026,53.55999999999949
+Charles Darwin University,linear,2025,2027,56.40545454545463
+Charles Darwin University,linear,2025,2028,59.25090909090886
+Charles University,linear,2025,2026,54.590000000001055
+Charles University,linear,2025,2027,57.80727272727381
+Charles University,linear,2025,2028,61.02454545454657
+Chiang Mai University,linear,2025,2026,35.923333333333176
+Chiang Mai University,linear,2025,2027,38.50575757575734
+Chiang Mai University,linear,2025,2028,41.08818181818151
+Chiba Institute of Technology,naive,2025,2026,17.8
+Chiba Institute of Technology,naive,2025,2027,17.8
+Chiba Institute of Technology,naive,2025,2028,17.8
+Chiba University,linear,2025,2026,37.33333333333303
+Chiba University,linear,2025,2027,39.56212121212138
+Chiba University,linear,2025,2028,41.790909090908826
+"China Medical University, Taiwan",linear,2025,2026,62.86000000000058
+"China Medical University, Taiwan",linear,2025,2027,67.41272727272735
+"China Medical University, Taiwan",linear,2025,2028,71.96545454545412
+"China University of Petroleum, Beijing",linear,2025,2026,49.01999999999953
+"China University of Petroleum, Beijing",linear,2025,2027,52.86727272727239
+"China University of Petroleum, Beijing",linear,2025,2028,56.71454545454526
+Chongqing University,linear,2025,2026,55.566666666667516
+Chongqing University,linear,2025,2027,60.54242424242511
+Chongqing University,linear,2025,2028,65.51818181818271
+Chonnam National University,linear,2025,2026,38.83333333333394
+Chonnam National University,linear,2025,2027,41.39848484848517
+Chonnam National University,linear,2025,2028,43.963636363637306
+Chulalongkorn University,linear,2025,2026,45.11999999999989
+Chulalongkorn University,linear,2025,2027,48.38727272727283
+Chulalongkorn University,linear,2025,2028,51.65454545454577
+Chung Yuan Christian University,linear,2025,2026,31.09333333333325
+Chung Yuan Christian University,linear,2025,2027,33.064848484848426
+Chung Yuan Christian University,linear,2025,2028,35.0363636363636
+Chung-Ang University,linear,2025,2026,51.2533333333331
+Chung-Ang University,linear,2025,2027,54.31121212121252
+Chung-Ang University,linear,2025,2028,57.36909090909103
+Chungnam National University,linear,2025,2026,35.6899999999996
+Chungnam National University,linear,2025,2027,38.656363636363494
+Chungnam National University,linear,2025,2028,41.62272727272739
+Chuo University,naive,2025,2026,17.8
+Chuo University,naive,2025,2027,17.8
+Chuo University,naive,2025,2028,17.8
+City University of Hong Kong,linear,2025,2026,71.73059087509318
+City University of Hong Kong,linear,2025,2027,74.29723261032177
+City University of Hong Kong,linear,2025,2028,76.86387434554945
+"City, University of London",linear,2025,2026,58.71333333333314
+"City, University of London",linear,2025,2027,62.1266666666661
+"City, University of London",linear,2025,2028,65.53999999999996
+Clark University,naive,2025,2026,40.7
+Clark University,naive,2025,2027,40.7
+Clark University,naive,2025,2028,40.7
+Claude Bernard University Lyon 1,linear,2025,2026,54.69333333333361
+Claude Bernard University Lyon 1,linear,2025,2027,57.879393939394504
+Claude Bernard University Lyon 1,linear,2025,2028,61.065454545454486
+Cochin University of Science and Technology,linear,2025,2026,26.809722222222263
+Cochin University of Science and Technology,linear,2025,2027,28.360555555555493
+Cochin University of Science and Technology,linear,2025,2028,29.911388888888723
+Colorado School of Mines,naive,2025,2026,47.6
+Colorado School of Mines,naive,2025,2027,47.6
+Colorado School of Mines,naive,2025,2028,47.6
+"Colorado State University, Fort Collins",linear,2025,2026,55.29666666666708
+"Colorado State University, Fort Collins",linear,2025,2027,58.2951515151517
+"Colorado State University, Fort Collins",linear,2025,2028,61.293636363636324
+Columbia University,naive,2025,2026,89.8
+Columbia University,naive,2025,2027,89.8
+Columbia University,naive,2025,2028,89.8
+Comenius University Bratislava,linear,2025,2026,32.11000000000013
+Comenius University Bratislava,linear,2025,2027,34.02545454545452
+Comenius University Bratislava,linear,2025,2028,35.94090909090892
+Complutense University of Madrid,linear,2025,2026,53.210000000000946
+Complutense University of Madrid,linear,2025,2027,56.55000000000018
+Complutense University of Madrid,linear,2025,2028,59.89000000000033
+Concordia University,linear,2025,2026,49.47999999999956
+Concordia University,linear,2025,2027,52.70727272727254
+Concordia University,linear,2025,2028,55.934545454544605
+Copenhagen Business School,naive,2024,2025,52.05
+Copenhagen Business School,naive,2024,2026,52.05
+Copenhagen Business School,naive,2024,2027,52.05
+Cornell University,naive,2025,2026,89.2
+Cornell University,naive,2025,2027,89.2
+Cornell University,naive,2025,2028,89.2
+Coventry University,linear,2025,2026,46.636666666666315
+Coventry University,linear,2025,2027,49.83060606060553
+Coventry University,linear,2025,2028,53.02454545454475
+Curtin University,linear,2025,2026,67.67000000000007
+Curtin University,linear,2025,2027,72.0445454545461
+Curtin University,linear,2025,2028,76.4190909090903
+Cyprus University of Technology,linear,2025,2026,40.604166666666686
+Cyprus University of Technology,linear,2025,2027,40.504999999999995
+Cyprus University of Technology,linear,2025,2028,40.405833333333334
+Czech Technical University in Prague,linear,2025,2026,33.03666666666686
+Czech Technical University in Prague,linear,2025,2027,34.97969696969676
+Czech Technical University in Prague,linear,2025,2028,36.922727272727116
+Czech University of Life Sciences Prague (CZU),linear,2025,2026,36.64861111111168
+Czech University of Life Sciences Prague (CZU),linear,2025,2027,39.28277777777839
+Czech University of Life Sciences Prague (CZU),linear,2025,2028,41.91694444444511
+Dalhousie University,naive,2025,2026,52.35
+Dalhousie University,naive,2025,2027,52.35
+Dalhousie University,naive,2025,2028,52.35
+Dalian University of Technology,linear,2025,2026,53.26333333333332
+Dalian University of Technology,linear,2025,2027,57.30848484848593
+Dalian University of Technology,linear,2025,2028,61.353636363636724
+Dartmouth College,naive,2025,2026,60.7
+Dartmouth College,naive,2025,2027,60.7
+Dartmouth College,naive,2025,2028,60.7
+De Montfort University,linear,2025,2026,47.90333333333365
+De Montfort University,linear,2025,2027,51.24121212121281
+De Montfort University,linear,2025,2028,54.579090909091065
+Deakin University,linear,2025,2026,64.91666666666697
+Deakin University,linear,2025,2027,68.7715151515149
+Deakin University,linear,2025,2028,72.62636363636375
+Delft University of Technology,linear,2025,2026,75.65142857142837
+Delft University of Technology,linear,2025,2027,77.01535714285683
+Delft University of Technology,linear,2025,2028,78.37928571428529
+Diego Portales University,linear,2025,2026,33.804166666666674
+Diego Portales University,linear,2025,2027,33.741666666666674
+Diego Portales University,linear,2025,2028,33.679166666666674
+Doshisha University,naive,2025,2026,17.8
+Doshisha University,naive,2025,2027,17.8
+Doshisha University,naive,2025,2028,17.8
+Drexel University,linear,2025,2026,50.077900552486426
+Drexel University,linear,2025,2027,51.51585635359106
+Drexel University,linear,2025,2028,52.95381215469615
+Dublin City University,linear,2025,2026,55.32333333333281
+Dublin City University,linear,2025,2027,58.80030303030253
+Dublin City University,linear,2025,2028,62.27727272727225
+Duke University,naive,2025,2026,83.4
+Duke University,naive,2025,2027,83.4
+Duke University,naive,2025,2028,83.4
+Durham University,naive,2025,2026,60.4
+Durham University,naive,2025,2027,60.4
+Durham University,naive,2025,2028,60.4
+ETH Zurich,linear,2025,2026,92.2295238095237
+ETH Zurich,linear,2025,2027,92.75988095238085
+ETH Zurich,linear,2025,2028,93.29023809523801
+East China Normal University,linear,2025,2026,63.10666666666839
+East China Normal University,linear,2025,2027,67.68242424242453
+East China Normal University,linear,2025,2028,72.25818181818249
+East China University of Science and Technology,linear,2025,2026,42.590000000000146
+East China University of Science and Technology,linear,2025,2027,45.209090909091174
+East China University of Science and Technology,linear,2025,2028,47.8281818181822
+Eastern Mediterranean University,linear,2025,2026,44.65555555555602
+Eastern Mediterranean University,linear,2025,2027,47.102222222222736
+Eastern Mediterranean University,linear,2025,2028,49.54888888888945
+Edinburgh Napier University,linear,2025,2026,49.32499999999982
+Edinburgh Napier University,linear,2025,2027,52.33666666666613
+Edinburgh Napier University,linear,2025,2028,55.34833333333245
+Edith Cowan University,linear,2025,2026,59.56999999999971
+Edith Cowan University,linear,2025,2027,63.69272727272801
+Edith Cowan University,linear,2025,2028,67.81545454545449
+Ehime University,linear,2025,2026,23.74333333333334
+Ehime University,linear,2025,2027,24.950303030303076
+Ehime University,linear,2025,2028,26.15727272727281
+Eindhoven University of Technology,linear,2025,2026,57.09380952380957
+Eindhoven University of Technology,linear,2025,2027,57.4372023809525
+Eindhoven University of Technology,linear,2025,2028,57.780595238095316
+Emory University,naive,2025,2026,66.3
+Emory University,naive,2025,2027,66.3
+Emory University,naive,2025,2028,66.3
+Erasmus University Rotterdam,naive,2025,2026,65.6
+Erasmus University Rotterdam,naive,2025,2027,65.6
+Erasmus University Rotterdam,naive,2025,2028,65.6
+Erciyes University,linear,2025,2026,29.070000000000164
+Erciyes University,linear,2025,2027,31.090000000000146
+Erciyes University,linear,2025,2028,33.11000000000058
+Ewha Womans University,linear,2025,2026,44.58666666666613
+Ewha Womans University,linear,2025,2027,47.066969696968954
+Ewha Womans University,linear,2025,2028,49.547272727271775
+Eötvös Loránd University,naive,2025,2026,36.3
+Eötvös Loránd University,naive,2025,2027,36.3
+Eötvös Loránd University,naive,2025,2028,36.3
+Federal University of Goiás,linear,2025,2026,23.174999999999727
+Federal University of Goiás,linear,2025,2027,24.359999999999673
+Federal University of Goiás,linear,2025,2028,25.545000000000073
+Federal University of Lavras,linear,2025,2026,29.480000000000473
+Federal University of Lavras,linear,2025,2027,31.833636363636288
+Federal University of Lavras,linear,2025,2028,34.18727272727301
+Federal University of Minas Gerais,naive,2025,2026,36.3
+Federal University of Minas Gerais,naive,2025,2027,36.3
+Federal University of Minas Gerais,naive,2025,2028,36.3
+Federal University of Rio Grande do Norte (UFRN),linear,2025,2026,22.32083333333344
+Federal University of Rio Grande do Norte (UFRN),linear,2025,2027,23.198333333333494
+Federal University of Rio Grande do Norte (UFRN),linear,2025,2028,24.07583333333355
+Federal University of Rio de Janeiro,linear,2025,2026,42.126666666667006
+Federal University of Rio de Janeiro,linear,2025,2027,44.99515151515152
+Federal University of Rio de Janeiro,linear,2025,2028,47.86363636363694
+Federal University of Santa Maria,linear,2025,2026,27.663888888889232
+Federal University of Santa Maria,linear,2025,2027,29.522222222222354
+Federal University of Santa Maria,linear,2025,2028,31.38055555555593
+Federal University of São Carlos,linear,2025,2026,32.38000000000011
+Federal University of São Carlos,linear,2025,2027,34.76090909090908
+Federal University of São Carlos,linear,2025,2028,37.14181818181805
+Federal University of Viçosa,linear,2025,2026,25.440000000000055
+Federal University of Viçosa,linear,2025,2027,27.24272727272728
+Federal University of Viçosa,linear,2025,2028,29.045454545454504
+Federico Santa María Technical University,naive,2025,2026,17.8
+Federico Santa María Technical University,naive,2025,2027,17.8
+Federico Santa María Technical University,naive,2025,2028,17.8
+Feng Chia University,naive,2025,2026,17.8
+Feng Chia University,naive,2025,2027,17.8
+Feng Chia University,naive,2025,2028,17.8
+Ferdowsi University of Mashhad,linear,2025,2026,36.89305555555529
+Ferdowsi University of Mashhad,linear,2025,2027,39.380555555555475
+Ferdowsi University of Mashhad,linear,2025,2028,41.86805555555566
+Flinders University,naive,2025,2026,52.35
+Flinders University,naive,2025,2027,52.35
+Flinders University,naive,2025,2028,52.35
+Florida Institute of Technology,linear,2025,2026,29.44696969696969
+Florida Institute of Technology,linear,2025,2027,29.589452214452194
+Florida Institute of Technology,linear,2025,2028,29.7319347319347
+Florida International University,linear,2025,2026,54.35333333333347
+Florida International University,linear,2025,2027,57.59212121212113
+Florida International University,linear,2025,2028,60.83090909090879
+Florida State University,naive,2025,2026,52.35
+Florida State University,naive,2025,2027,52.35
+Florida State University,naive,2025,2028,52.35
+Fluminense Federal University,naive,2025,2026,17.8
+Fluminense Federal University,naive,2025,2027,17.8
+Fluminense Federal University,naive,2025,2028,17.8
+Free University of Berlin,linear,2025,2026,68.55164835164805
+Free University of Berlin,linear,2025,2027,69.64043956043952
+Free University of Berlin,linear,2025,2028,70.72923076923053
+Free University of Bozen-Bolzano,linear,2025,2026,48.05555555555566
+Free University of Bozen-Bolzano,linear,2025,2027,48.782222222222344
+Free University of Bozen-Bolzano,linear,2025,2028,49.50888888888903
+Fu Jen Catholic University,naive,2025,2026,27.9
+Fu Jen Catholic University,naive,2025,2027,27.9
+Fu Jen Catholic University,naive,2025,2028,27.9
+Fudan University,linear,2025,2026,88.95090909090868
+Fudan University,linear,2025,2027,93.96999999999935
+Fudan University,linear,2025,2028,98.98909090909001
+Gazi University,linear,2025,2026,27.663888888889232
+Gazi University,linear,2025,2027,29.522222222222354
+Gazi University,linear,2025,2028,31.38055555555593
+Gdańsk University of Technology,linear,2025,2026,34.826666666666824
+Gdańsk University of Technology,linear,2025,2027,37.55515151515192
+Gdańsk University of Technology,linear,2025,2028,40.283636363636106
+George Mason University,naive,2025,2026,47.6
+George Mason University,naive,2025,2027,47.6
+George Mason University,naive,2025,2028,47.6
+George Washington University,naive,2025,2026,57.2
+George Washington University,naive,2025,2027,57.2
+George Washington University,naive,2025,2028,57.2
+Georgetown University,naive,2025,2026,57.2
+Georgetown University,naive,2025,2027,57.2
+Georgetown University,naive,2025,2028,57.2
+Georgia Institute of Technology,naive,2025,2026,78.3
+Georgia Institute of Technology,naive,2025,2027,78.3
+Georgia Institute of Technology,naive,2025,2028,78.3
+Georgia State University,linear,2025,2026,54.5033333333331
+Georgia State University,linear,2025,2027,57.58575757575727
+Georgia State University,linear,2025,2028,60.66818181818144
+Ghent University,linear,2025,2026,65.59142857142865
+Ghent University,linear,2025,2027,66.39285714285734
+Ghent University,linear,2025,2028,67.1942857142858
+Gifu University,linear,2025,2026,30.720000000000255
+Gifu University,linear,2025,2027,33.097272727272866
+Gifu University,linear,2025,2028,35.47454545454548
+Glasgow Caledonian University,linear,2025,2026,46.14333333333252
+Glasgow Caledonian University,linear,2025,2027,49.2412121212119
+Glasgow Caledonian University,linear,2025,2028,52.33909090909037
+Goethe University Frankfurt,linear,2025,2026,53.13758420085742
+Goethe University Frankfurt,linear,2025,2027,54.18952847519904
+Goethe University Frankfurt,linear,2025,2028,55.24147274954066
+Graz University of Technology,linear,2025,2026,47.39333333333343
+Graz University of Technology,linear,2025,2027,49.7048484848483
+Graz University of Technology,linear,2025,2028,52.016363636364076
+Griffith University,naive,2025,2026,52.35
+Griffith University,naive,2025,2027,52.35
+Griffith University,naive,2025,2028,52.35
+Gwangju Institute of Science and Technology (GIST),linear,2025,2026,52.936666666667406
+Gwangju Institute of Science and Technology (GIST),linear,2025,2027,55.72515151515199
+Gwangju Institute of Science and Technology (GIST),linear,2025,2028,58.51363636363658
+HSE University,naive,2025,2026,47.6
+HSE University,naive,2025,2027,47.6
+HSE University,naive,2025,2028,47.6
+Hacettepe University,naive,2025,2026,36.3
+Hacettepe University,naive,2025,2027,36.3
+Hacettepe University,naive,2025,2028,36.3
+Hallym University,linear,2025,2026,26.809722222222263
+Hallym University,linear,2025,2027,28.360555555555493
+Hallym University,linear,2025,2028,29.911388888888723
+Hanyang University,linear,2025,2026,60.71666666666715
+Hanyang University,linear,2025,2027,64.36878787878777
+Hanyang University,linear,2025,2028,68.0209090909093
+Harbin Institute of Technology,linear,2025,2026,67.1933333333327
+Harbin Institute of Technology,linear,2025,2027,72.27575757575687
+Harbin Institute of Technology,linear,2025,2028,77.35818181818104
+Harvard University,naive,2025,2026,97.7
+Harvard University,naive,2025,2027,97.7
+Harvard University,naive,2025,2028,97.7
+Hasselt University,linear,2025,2026,54.370833333332484
+Hasselt University,linear,2025,2027,56.464999999999236
+Hasselt University,linear,2025,2028,58.55916666666599
+Hebrew University of Jerusalem,naive,2025,2026,52.35
+Hebrew University of Jerusalem,naive,2025,2027,52.35
+Hebrew University of Jerusalem,naive,2025,2028,52.35
+Heriot-Watt University,naive,2025,2026,47.6
+Heriot-Watt University,naive,2025,2027,47.6
+Heriot-Watt University,naive,2025,2028,47.6
+Hiroshima University,linear,2025,2026,43.86999999999989
+Hiroshima University,linear,2025,2027,46.63454545454533
+Hiroshima University,linear,2025,2028,49.39909090909077
+Hokkaido University,linear,2025,2026,56.100000000000364
+Hokkaido University,linear,2025,2027,59.558181818181765
+Hokkaido University,linear,2025,2028,63.016363636364076
+Hong Kong Baptist University,linear,2025,2026,46.90939226519322
+Hong Kong Baptist University,linear,2025,2027,47.903011049723546
+Hong Kong Baptist University,linear,2025,2028,48.8966298342541
+Hosei University,linear,2025,2026,23.45138888888914
+Hosei University,linear,2025,2027,24.53722222222268
+Hosei University,linear,2025,2028,25.623055555555766
+Huazhong University of Science and Technology,linear,2025,2026,72.9933333333338
+Huazhong University of Science and Technology,linear,2025,2027,78.23757575757554
+Huazhong University of Science and Technology,linear,2025,2028,83.48181818181911
+Humboldt University of Berlin,naive,2025,2026,68.0
+Humboldt University of Berlin,naive,2025,2027,68.0
+Humboldt University of Berlin,naive,2025,2028,68.0
+Hunan University,linear,2025,2026,61.159999999999854
+Hunan University,linear,2025,2027,65.82727272727243
+Hunan University,linear,2025,2028,70.494545454545
+I-Shou University,linear,2025,2026,27.203333333333376
+I-Shou University,linear,2025,2027,29.15848484848493
+I-Shou University,linear,2025,2028,31.113636363636488
+ISCTE-University Institute of Lisbon,linear,2025,2026,42.145833333333485
+ISCTE-University Institute of Lisbon,linear,2025,2027,44.11500000000024
+ISCTE-University Institute of Lisbon,linear,2025,2028,46.08416666666699
+ITMO University,naive,2025,2026,36.3
+ITMO University,naive,2025,2027,36.3
+ITMO University,naive,2025,2028,36.3
+Imperial College London,linear,2025,2026,92.16285714285715
+Imperial College London,linear,2025,2027,92.40071428571429
+Imperial College London,linear,2025,2028,92.63857142857142
+Indian Institute of Science,linear,2025,2026,64.42333333333409
+Indian Institute of Science,linear,2025,2027,68.0121212121212
+Indian Institute of Science,linear,2025,2028,71.60090909090923
+Indiana University,naive,2025,2026,59.3
+Indiana University,naive,2025,2027,59.3
+Indiana University,naive,2025,2028,59.3
+Inha University,linear,2025,2026,38.83333333333394
+Inha University,linear,2025,2027,41.39848484848517
+Inha University,linear,2025,2028,43.963636363637306
+Institut Teknologi Bandung,linear,2025,2026,27.97361111111104
+Institut Teknologi Bandung,linear,2025,2027,29.392777777778065
+Institut Teknologi Bandung,linear,2025,2028,30.811944444444634
+Iowa State University,linear,2025,2026,43.641428571428605
+Iowa State University,linear,2025,2027,43.86910714285716
+Iowa State University,linear,2025,2028,44.096785714285716
+Iran University of Science and Technology,linear,2025,2026,55.089999999999236
+Iran University of Science and Technology,linear,2025,2027,59.131818181817835
+Iran University of Science and Technology,linear,2025,2028,63.17363636363643
+Isfahan University of Technology,linear,2025,2026,44.27666666666664
+Isfahan University of Technology,linear,2025,2027,47.22696969696972
+Isfahan University of Technology,linear,2025,2028,50.17727272727279
+Istanbul Technical University,linear,2025,2026,42.577272727272884
+Istanbul Technical University,linear,2025,2027,44.32499999999982
+Istanbul Technical University,linear,2025,2028,46.07272727272721
+Istanbul University,naive,2025,2026,27.9
+Istanbul University,naive,2025,2027,27.9
+Istanbul University,naive,2025,2028,27.9
+Ivane Javakhishvili Tbilisi State University,naive,2025,2026,17.8
+Ivane Javakhishvili Tbilisi State University,naive,2025,2027,17.8
+Ivane Javakhishvili Tbilisi State University,naive,2025,2028,17.8
+Iwate University,naive,2025,2026,17.8
+Iwate University,naive,2025,2027,17.8
+Iwate University,naive,2025,2028,17.8
+Izmir Institute of Technology,naive,2025,2026,17.8
+Izmir Institute of Technology,naive,2025,2027,17.8
+Izmir Institute of Technology,naive,2025,2028,17.8
+Jadavpur University,linear,2025,2026,35.909999999999854
+Jadavpur University,linear,2025,2027,37.74454545454546
+Jadavpur University,linear,2025,2028,39.579090909091065
+Jagiellonian University,linear,2025,2026,49.44333333333361
+Jagiellonian University,linear,2025,2027,52.89212121212131
+Jagiellonian University,linear,2025,2028,56.34090909090901
+James Cook University,naive,2025,2026,47.6
+James Cook University,naive,2025,2027,47.6
+James Cook University,naive,2025,2028,47.6
+Jeonbuk National University,linear,2025,2026,37.506666666666206
+Jeonbuk National University,linear,2025,2027,40.011515151514686
+Jeonbuk National University,linear,2025,2028,42.51636363636317
+Jiangsu University,linear,2025,2026,46.93472222222226
+Jiangsu University,linear,2025,2027,50.60388888888883
+Jiangsu University,linear,2025,2028,54.2730555555554
+Jinan University (China),linear,2025,2026,50.129166666666606
+Jinan University (China),linear,2025,2027,54.09833333333336
+Jinan University (China),linear,2025,2028,58.06750000000011
+Johannes Gutenberg University of Mainz,linear,2025,2026,62.95666666666693
+Johannes Gutenberg University of Mainz,linear,2025,2027,66.43878787878839
+Johannes Gutenberg University of Mainz,linear,2025,2028,69.92090909090894
+Johannes Kepler University of Linz,linear,2025,2026,52.29333333333307
+Johannes Kepler University of Linz,linear,2025,2027,55.64666666666653
+Johannes Kepler University of Linz,linear,2025,2028,59.0
+Johns Hopkins University,naive,2025,2026,90.7
+Johns Hopkins University,naive,2025,2027,90.7
+Johns Hopkins University,naive,2025,2028,90.7
+Jordan University of Science and Technology,linear,2025,2026,48.326666666666824
+Jordan University of Science and Technology,linear,2025,2027,50.88515151515185
+Jordan University of Science and Technology,linear,2025,2028,53.44363636363687
+Juntendo University,linear,2025,2026,44.3666666666677
+Juntendo University,linear,2025,2027,47.46787878787927
+Juntendo University,linear,2025,2028,50.569090909091756
+Justus Liebig University Giessen,linear,2025,2026,56.95666666666693
+Justus Liebig University Giessen,linear,2025,2027,60.09060606060666
+Justus Liebig University Giessen,linear,2025,2028,63.22454545454548
+K.N. Toosi University of Technology,linear,2025,2026,38.83333333333394
+K.N. Toosi University of Technology,linear,2025,2027,41.39848484848517
+K.N. Toosi University of Technology,linear,2025,2028,43.963636363637306
+KTH Royal Institute of Technology,linear,2025,2026,62.76619047619033
+KTH Royal Institute of Technology,linear,2025,2027,63.866547619047196
+KTH Royal Institute of Technology,linear,2025,2028,64.96690476190452
+KU Leuven,naive,2025,2026,77.0
+KU Leuven,naive,2025,2027,77.0
+KU Leuven,naive,2025,2028,77.0
+Kanazawa University,linear,2025,2026,34.55666666666639
+Kanazawa University,linear,2025,2027,36.67242424242431
+Kanazawa University,linear,2025,2028,38.78818181818224
+Kansai University,naive,2025,2026,17.8
+Kansai University,naive,2025,2027,17.8
+Kansai University,naive,2025,2028,17.8
+Kansas State University,linear,2025,2026,44.623333333332084
+Kansas State University,linear,2025,2027,47.422121212120146
+Kansas State University,linear,2025,2028,50.22090909090821
+Kaohsiung Medical University,linear,2025,2026,38.83333333333394
+Kaohsiung Medical University,linear,2025,2027,41.39848484848517
+Kaohsiung Medical University,linear,2025,2028,43.963636363637306
+Karlsruhe Institute of Technology,linear,2025,2026,61.80000000000018
+Karlsruhe Institute of Technology,linear,2025,2027,62.82250000000022
+Karlsruhe Institute of Technology,linear,2025,2028,63.845000000000255
+Karolinska Institute,naive,2025,2026,76.1
+Karolinska Institute,naive,2025,2027,76.1
+Karolinska Institute,naive,2025,2028,76.1
+Kasetsart University,naive,2025,2026,17.8
+Kasetsart University,naive,2025,2027,17.8
+Kasetsart University,naive,2025,2028,17.8
+Kaunas University of Technology,linear,2025,2026,27.663888888889232
+Kaunas University of Technology,linear,2025,2027,29.522222222222354
+Kaunas University of Technology,linear,2025,2028,31.38055555555593
+Kazan Federal University,naive,2025,2026,36.3
+Kazan Federal University,naive,2025,2027,36.3
+Kazan Federal University,naive,2025,2028,36.3
+Keele University,linear,2025,2026,51.78333333333376
+Keele University,linear,2025,2027,54.89939393939403
+Keele University,linear,2025,2028,58.01545454545521
+Keio University,linear,2025,2026,46.636666666666315
+Keio University,linear,2025,2027,49.83060606060553
+Keio University,linear,2025,2028,53.02454545454475
+Khon Kaen University,linear,2025,2026,30.92999999999938
+Khon Kaen University,linear,2025,2027,33.35090909090832
+Khon Kaen University,linear,2025,2028,35.77181818181816
+Kindai University,naive,2025,2026,27.9
+Kindai University,naive,2025,2027,27.9
+Kindai University,naive,2025,2028,27.9
+King Abdulaziz University,naive,2025,2026,50.2
+King Abdulaziz University,naive,2025,2027,50.2
+King Abdulaziz University,naive,2025,2028,50.2
+King Fahd University of Petroleum and Minerals,linear,2025,2026,66.8799999999992
+King Fahd University of Petroleum and Minerals,linear,2025,2027,71.98999999999978
+King Fahd University of Petroleum and Minerals,linear,2025,2028,77.09999999999854
+King Mongkut’s Institute of Technology Ladkrabang,naive,2025,2026,17.8
+King Mongkut’s Institute of Technology Ladkrabang,naive,2025,2027,17.8
+King Mongkut’s Institute of Technology Ladkrabang,naive,2025,2028,17.8
+King Mongkut’s University of Technology Thonburi,linear,2025,2026,40.48666666666759
+King Mongkut’s University of Technology Thonburi,linear,2025,2027,43.33787878787916
+King Mongkut’s University of Technology Thonburi,linear,2025,2028,46.18909090909165
+King Saud University,linear,2025,2026,61.78333333333467
+King Saud University,linear,2025,2027,66.22212121212215
+King Saud University,linear,2025,2028,70.66090909091145
+Kingston University,linear,2025,2026,41.07333333333281
+Kingston University,linear,2025,2027,43.739393939394176
+Kingston University,linear,2025,2028,46.40545454545463
+King’s College London,naive,2025,2026,78.8
+King’s College London,naive,2025,2027,78.8
+King’s College London,naive,2025,2028,78.8
+Kobe University,linear,2025,2026,46.636666666666315
+Kobe University,linear,2025,2027,49.83060606060553
+Kobe University,linear,2025,2028,53.02454545454475
+Kochi University,naive,2025,2026,17.8
+Kochi University,naive,2025,2027,17.8
+Kochi University,naive,2025,2028,17.8
+Konkuk University,linear,2025,2026,49.01333333333241
+Konkuk University,linear,2025,2027,52.35939393939316
+Konkuk University,linear,2025,2028,55.705454545453904
+Korea Advanced Institute of Science and Technology (KAIST),linear,2025,2026,66.87523809523805
+Korea Advanced Institute of Science and Technology (KAIST),linear,2025,2027,67.47380952380945
+Korea Advanced Institute of Science and Technology (KAIST),linear,2025,2028,68.07238095238085
+Korea University,naive,2025,2026,59.3
+Korea University,naive,2025,2027,59.3
+Korea University,naive,2025,2028,59.3
+Koç University,linear,2025,2026,55.3766666666661
+Koç University,linear,2025,2027,58.35787878787869
+Koç University,linear,2025,2028,61.33909090909037
+Kumamoto University,linear,2025,2026,36.006666666666206
+Kumamoto University,linear,2025,2027,38.306969696968736
+Kumamoto University,linear,2025,2028,40.607272727272175
+Kuwait University,linear,2025,2026,30.662500000000136
+Kuwait University,linear,2025,2027,31.591666666666697
+Kuwait University,linear,2025,2028,32.520833333333485
+Kwansei Gakuin University,naive,2025,2026,17.8
+Kwansei Gakuin University,naive,2025,2027,17.8
+Kwansei Gakuin University,naive,2025,2028,17.8
+Kyoto University,linear,2025,2026,72.78761904761905
+Kyoto University,linear,2025,2027,73.54190476190479
+Kyoto University,linear,2025,2028,74.2961904761903
+Kyung Hee University,linear,2025,2026,65.10333333333438
+Kyung Hee University,linear,2025,2027,69.25666666666802
+Kyung Hee University,linear,2025,2028,73.40999999999985
+Kyungpook National University (KNU),linear,2025,2026,48.40666666666766
+Kyungpook National University (KNU),linear,2025,2027,52.1287878787889
+Kyungpook National University (KNU),linear,2025,2028,55.850909090910136
+Kyushu Institute of Technology (Kyutech),linear,2025,2026,29.070000000000164
+Kyushu Institute of Technology (Kyutech),linear,2025,2027,31.090000000000146
+Kyushu Institute of Technology (Kyutech),linear,2025,2028,33.11000000000058
+Kyushu University,linear,2025,2026,57.31999999999971
+Kyushu University,linear,2025,2027,60.71818181818162
+Kyushu University,linear,2025,2028,64.11636363636353
+LMU Munich,naive,2025,2026,78.7
+LMU Munich,naive,2025,2027,78.7
+LMU Munich,naive,2025,2028,78.7
+LUT University,linear,2025,2026,64.84333333333234
+LUT University,linear,2025,2027,69.61757575757474
+LUT University,linear,2025,2028,74.39181818181714
+La Trobe University,linear,2025,2026,66.0533333333342
+La Trobe University,linear,2025,2027,70.10757575757543
+La Trobe University,linear,2025,2028,74.16181818181849
+Lancaster University,naive,2025,2026,60.7
+Lancaster University,naive,2025,2027,60.7
+Lancaster University,naive,2025,2028,60.7
+Leeds Beckett University,linear,2025,2026,37.07222222222208
+Leeds Beckett University,linear,2025,2027,38.77888888888856
+Leeds Beckett University,linear,2025,2028,40.48555555555549
+Lehigh University,linear,2025,2026,45.85333333333347
+Lehigh University,linear,2025,2027,48.376666666667006
+Lehigh University,linear,2025,2028,50.900000000000546
+Leibniz University Hannover,linear,2025,2026,56.673333333333176
+Leibniz University Hannover,linear,2025,2027,59.988484848484404
+Leibniz University Hannover,linear,2025,2028,63.30363636363654
+Leiden University,naive,2025,2026,70.7
+Leiden University,naive,2025,2027,70.7
+Leiden University,naive,2025,2028,70.7
+Lincoln University (New Zealand),linear,2025,2026,47.040277777777646
+Lincoln University (New Zealand),linear,2025,2027,48.712777777777774
+Lincoln University (New Zealand),linear,2025,2028,50.3852777777779
+Linköping University,linear,2025,2026,64.11666666666588
+Linköping University,linear,2025,2027,68.15606060606024
+Linköping University,linear,2025,2028,72.19545454545369
+Liverpool John Moores University,naive,2025,2026,40.7
+Liverpool John Moores University,naive,2025,2027,40.7
+Liverpool John Moores University,naive,2025,2028,40.7
+Lobachevsky State University of Nizhni Novgorod,naive,2025,2026,17.8
+Lobachevsky State University of Nizhni Novgorod,naive,2025,2027,17.8
+Lobachevsky State University of Nizhni Novgorod,naive,2025,2028,17.8
+Lomonosov Moscow State University,linear,2025,2026,65.73999999999978
+Lomonosov Moscow State University,linear,2025,2027,67.43454545454551
+Lomonosov Moscow State University,linear,2025,2028,69.12909090909079
+London School of Economics and Political Science,linear,2025,2026,83.57904761904751
+London School of Economics and Political Science,linear,2025,2027,84.58476190476176
+London School of Economics and Political Science,linear,2025,2028,85.59047619047624
+London South Bank University,linear,2025,2026,44.30138888888905
+London South Bank University,linear,2025,2027,48.12722222222237
+London South Bank University,linear,2025,2028,51.95305555555569
+Londrina State University,naive,2025,2026,17.8
+Londrina State University,naive,2025,2027,17.8
+Londrina State University,naive,2025,2028,17.8
+Loughborough University,linear,2025,2026,60.67000000000007
+Loughborough University,linear,2025,2027,64.23090909090934
+Loughborough University,linear,2025,2028,67.7918181818186
+Louisiana State University,naive,2025,2026,40.7
+Louisiana State University,naive,2025,2027,40.7
+Louisiana State University,naive,2025,2028,40.7
+Lund University,linear,2025,2026,65.67428571428559
+Lund University,linear,2025,2027,66.36857142857139
+Lund University,linear,2025,2028,67.06285714285696
+Lviv Polytechnic National University,linear,2025,2026,33.519444444444616
+Lviv Polytechnic National University,linear,2025,2027,35.374444444444634
+Lviv Polytechnic National University,linear,2025,2028,37.22944444444465
+Maastricht University,naive,2025,2026,63.2
+Maastricht University,naive,2025,2027,63.2
+Maastricht University,naive,2025,2028,63.2
+Macquarie University,linear,2025,2026,71.5066666666662
+Macquarie University,linear,2025,2027,75.7824242424249
+Macquarie University,linear,2025,2028,80.05818181818177
+Mahidol University,linear,2025,2026,45.2533333333331
+Mahidol University,linear,2025,2027,47.94575757575785
+Mahidol University,linear,2025,2028,50.63818181818169
+Makerere University,linear,2025,2026,38.743333333333794
+Makerere University,linear,2025,2027,40.13939393939427
+Makerere University,linear,2025,2028,41.53545454545474
+Manchester Metropolitan University,linear,2025,2026,49.303333333333285
+Manchester Metropolitan University,linear,2025,2027,52.819393939394104
+Manchester Metropolitan University,linear,2025,2028,56.33545454545492
+Manipal Academy of Higher Education,linear,2025,2026,40.94722222222208
+Manipal Academy of Higher Education,linear,2025,2027,44.54888888888854
+Manipal Academy of Higher Education,linear,2025,2028,48.150555555555
+Mansoura University,naive,2025,2026,40.7
+Mansoura University,naive,2025,2027,40.7
+Mansoura University,naive,2025,2028,40.7
+Marche Polytechnic University,linear,2025,2026,45.89333333333252
+Marche Polytechnic University,linear,2025,2027,48.16939393939356
+Marche Polytechnic University,linear,2025,2028,50.445454545453686
+Marmara University,naive,2025,2026,17.8
+Marmara University,naive,2025,2027,17.8
+Marmara University,naive,2025,2028,17.8
+Masaryk University,linear,2025,2026,45.10666666666657
+Masaryk University,linear,2025,2027,47.99787878787902
+Masaryk University,linear,2025,2028,50.889090909090555
+Massachusetts Institute of Technology,naive,2025,2026,98.1
+Massachusetts Institute of Technology,naive,2025,2027,98.1
+Massachusetts Institute of Technology,naive,2025,2028,98.1
+Massey University,linear,2025,2026,48.85333333333256
+Massey University,linear,2025,2027,51.59484848484772
+Massey University,linear,2025,2028,54.336363636362876
+Maynooth University,naive,2025,2026,44.599999999999994
+Maynooth University,naive,2025,2027,44.599999999999994
+Maynooth University,naive,2025,2028,44.599999999999994
+McGill University,naive,2025,2026,76.7
+McGill University,naive,2025,2027,76.7
+McGill University,naive,2025,2028,76.7
+McMaster University,naive,2025,2026,65.2
+McMaster University,naive,2025,2027,65.2
+McMaster University,naive,2025,2028,65.2
+Medical University of Vienna,linear,2025,2026,70.38016129032076
+Medical University of Vienna,linear,2025,2027,74.94475806451374
+Medical University of Vienna,linear,2025,2028,79.50935483870853
+Meiji University,naive,2025,2026,17.8
+Meiji University,naive,2025,2027,17.8
+Meiji University,naive,2025,2028,17.8
+Memorial University of Newfoundland,linear,2025,2026,50.469999999999345
+Memorial University of Newfoundland,linear,2025,2027,53.593636363635596
+Memorial University of Newfoundland,linear,2025,2028,56.71727272727276
+Michigan State University,naive,2025,2026,64.7
+Michigan State University,naive,2025,2027,64.7
+Michigan State University,naive,2025,2028,64.7
+Middle East Technical University,linear,2025,2026,39.295748530076935
+Middle East Technical University,linear,2025,2027,39.95314337403897
+Middle East Technical University,linear,2025,2028,40.61053821800101
+Middlesex University,naive,2025,2026,44.599999999999994
+Middlesex University,naive,2025,2027,44.599999999999994
+Middlesex University,naive,2025,2028,44.599999999999994
+Ming Chuan University,naive,2025,2026,17.8
+Ming Chuan University,naive,2025,2027,17.8
+Ming Chuan University,naive,2025,2028,17.8
+Missouri University of Science and Technology,linear,2025,2026,55.93000000000029
+Missouri University of Science and Technology,linear,2025,2027,59.65090909090941
+Missouri University of Science and Technology,linear,2025,2028,63.371818181818526
+Mizzou - University of Missouri,naive,2025,2026,44.599999999999994
+Mizzou - University of Missouri,naive,2025,2027,44.599999999999994
+Mizzou - University of Missouri,naive,2025,2028,44.599999999999994
+Mohammed V University of Rabat,linear,2025,2026,26.359722222222445
+Mohammed V University of Rabat,linear,2025,2027,27.640555555555693
+Mohammed V University of Rabat,linear,2025,2028,28.92138888888894
+Monash University,linear,2025,2026,77.58571428571395
+Monash University,linear,2025,2027,79.38142857142839
+Monash University,linear,2025,2028,81.17714285714283
+Montana State University,naive,2025,2026,32.55
+Montana State University,naive,2025,2027,32.55
+Montana State University,naive,2025,2028,32.55
+Montpellier University,linear,2025,2026,60.92000000000007
+Montpellier University,linear,2025,2027,64.45181818181845
+Montpellier University,linear,2025,2028,67.98363636363592
+Moscow Institute of Physics and Technology (MIPT),naive,2025,2026,54.7
+Moscow Institute of Physics and Technology (MIPT),naive,2025,2027,54.7
+Moscow Institute of Physics and Technology (MIPT),naive,2025,2028,54.7
+Murdoch University,linear,2025,2026,55.81999999999971
+Murdoch University,linear,2025,2027,59.22272727272684
+Murdoch University,linear,2025,2028,62.62545454545398
+NOVA University of Lisbon,linear,2025,2026,52.48666666666668
+NOVA University of Lisbon,linear,2025,2027,55.817878787878726
+NOVA University of Lisbon,linear,2025,2028,59.14909090909077
+Nagaoka University of Technology,linear,2025,2026,26.809722222222263
+Nagaoka University of Technology,linear,2025,2027,28.360555555555493
+Nagaoka University of Technology,linear,2025,2028,29.911388888888723
+Nagasaki University,linear,2025,2026,29.443333333333612
+Nagasaki University,linear,2025,2027,31.204848484848753
+Nagasaki University,linear,2025,2028,32.966363636363894
+Nagoya City University,linear,2025,2026,24.954166666666765
+Nagoya City University,linear,2025,2027,25.4616666666667
+Nagoya City University,linear,2025,2028,25.969166666666638
+Nagoya Institute of Technology,linear,2025,2026,22.720833333333303
+Nagoya Institute of Technology,linear,2025,2027,23.394999999999982
+Nagoya Institute of Technology,linear,2025,2028,24.06916666666666
+Nagoya University,linear,2025,2026,64.19999999999982
+Nagoya University,linear,2025,2027,68.08272727272742
+Nagoya University,linear,2025,2028,71.96545454545412
+Nanjing Medical University,naive,2025,2026,36.3
+Nanjing Medical University,naive,2025,2027,36.3
+Nanjing Medical University,naive,2025,2028,36.3
+Nanjing Normal University,linear,2025,2026,36.85138888888878
+Nanjing Normal University,linear,2025,2027,38.2072222222223
+Nanjing Normal University,linear,2025,2028,39.563055555555366
+Nanjing Tech University,linear,2025,2026,43.058333333333394
+Nanjing Tech University,linear,2025,2027,45.6899999999996
+Nanjing Tech University,linear,2025,2028,48.321666666666715
+Nanjing University,linear,2025,2026,71.8364640883974
+Nanjing University,linear,2025,2027,74.50433701657403
+Nanjing University,linear,2025,2028,77.17220994475065
+Nantes Université,linear,2025,2026,47.2533333333331
+Nantes Université,linear,2025,2027,50.055757575757525
+Nantes Université,linear,2025,2028,52.85818181818195
+"Nanyang Technological University, Singapore",linear,2025,2026,86.06571428571442
+"Nanyang Technological University, Singapore",linear,2025,2027,88.37892857142833
+"Nanyang Technological University, Singapore",linear,2025,2028,90.69214285714315
+National Autonomous University of Mexico,linear,2025,2026,39.29666666666617
+National Autonomous University of Mexico,linear,2025,2027,41.48060606060608
+National Autonomous University of Mexico,linear,2025,2028,43.66454545454508
+National Central University,linear,2025,2026,35.88333333333321
+National Central University,linear,2025,2027,38.059393939393885
+National Central University,linear,2025,2028,40.23545454545365
+National Cheng Kung University (NCKU),linear,2025,2026,49.45333333333383
+National Cheng Kung University (NCKU),linear,2025,2027,52.39666666666653
+National Cheng Kung University (NCKU),linear,2025,2028,55.340000000000146
+National Chengchi University,naive,2025,2026,27.9
+National Chengchi University,naive,2025,2027,27.9
+National Chengchi University,naive,2025,2028,27.9
+National Chung Cheng University,linear,2025,2026,27.783333333333303
+National Chung Cheng University,linear,2025,2027,29.541212121212084
+National Chung Cheng University,linear,2025,2028,31.299090909090864
+National Chung Hsing University,linear,2025,2026,31.60073529411784
+National Chung Hsing University,linear,2025,2027,33.81470588235334
+National Chung Hsing University,linear,2025,2028,36.028676470587925
+National Institute of Applied Sciences of Lyon (INSA Lyon),linear,2025,2026,45.70333333333383
+National Institute of Applied Sciences of Lyon (INSA Lyon),linear,2025,2027,48.60030303030362
+National Institute of Applied Sciences of Lyon (INSA Lyon),linear,2025,2028,51.49727272727341
+National Institute of Technology Rourkela,linear,2025,2026,36.99722222222226
+National Institute of Technology Rourkela,linear,2025,2027,38.53222222222212
+National Institute of Technology Rourkela,linear,2025,2028,40.067222222222426
+National Research Nuclear University MEPhI,linear,2025,2026,54.75
+National Research Nuclear University MEPhI,linear,2025,2027,57.881818181817835
+National Research Nuclear University MEPhI,linear,2025,2028,61.01363636363567
+National Sun Yat-Sen University,linear,2025,2026,31.640331491712686
+National Sun Yat-Sen University,linear,2025,2027,31.993812154696116
+National Sun Yat-Sen University,linear,2025,2028,32.347292817679545
+National Taipei University of Technology,linear,2025,2026,39.123333333332994
+National Taipei University of Technology,linear,2025,2027,42.122121212120874
+National Taipei University of Technology,linear,2025,2028,45.120909090908754
+National Taiwan Normal University,linear,2025,2026,48.21333333333405
+National Taiwan Normal University,linear,2025,2027,51.29666666666708
+National Taiwan Normal University,linear,2025,2028,54.38000000000011
+National Taiwan Ocean University,linear,2025,2026,29.303333333333285
+National Taiwan Ocean University,linear,2025,2027,31.086666666666588
+National Taiwan Ocean University,linear,2025,2028,32.86999999999989
+National Taiwan University (NTU),naive,2025,2026,60.4
+National Taiwan University (NTU),naive,2025,2027,60.4
+National Taiwan University (NTU),naive,2025,2028,60.4
+National Taiwan University of Science and Technology (Taiwan Tech),linear,2025,2026,51.89333333333343
+National Taiwan University of Science and Technology (Taiwan Tech),linear,2025,2027,54.90575757575789
+National Taiwan University of Science and Technology (Taiwan Tech),linear,2025,2028,57.91818181818235
+National Tsing Hua University,naive,2025,2026,47.6
+National Tsing Hua University,naive,2025,2027,47.6
+National Tsing Hua University,naive,2025,2028,47.6
+National University of Córdoba,naive,2025,2026,17.8
+National University of Córdoba,naive,2025,2027,17.8
+National University of Córdoba,naive,2025,2028,17.8
+National University of Science and Technology (MISiS),linear,2025,2026,49.19000000000051
+National University of Science and Technology (MISiS),linear,2025,2027,52.93727272727301
+National University of Science and Technology (MISiS),linear,2025,2028,56.684545454545514
+National University of Sciences and Technology,linear,2025,2026,44.36666666666679
+National University of Sciences and Technology,linear,2025,2027,47.599696969697106
+National University of Sciences and Technology,linear,2025,2028,50.832727272727425
+National University of Singapore,linear,2025,2026,91.27047619047607
+National University of Singapore,linear,2025,2027,92.59011904761883
+National University of Singapore,linear,2025,2028,93.90976190476158
+National and Kapodistrian University of Athens,linear,2025,2026,54.289999999999964
+National and Kapodistrian University of Athens,linear,2025,2027,57.78090909090952
+National and Kapodistrian University of Athens,linear,2025,2028,61.27181818181816
+New Jersey Institute of Technology,linear,2025,2026,52.57000000000062
+New Jersey Institute of Technology,linear,2025,2027,55.928181818182566
+New Jersey Institute of Technology,linear,2025,2028,59.28636363636451
+New Mexico State University (Main campus),naive,2025,2026,36.3
+New Mexico State University (Main campus),naive,2025,2027,36.3
+New Mexico State University (Main campus),naive,2025,2028,36.3
+New York University,naive,2025,2026,80.3
+New York University,naive,2025,2027,80.3
+New York University,naive,2025,2028,80.3
+Newcastle University,linear,2025,2026,61.19387054161166
+Newcastle University,linear,2025,2027,62.20042272126807
+Newcastle University,linear,2025,2028,63.206974900924706
+Nicolaus Copernicus University in Toruń,linear,2025,2026,30.211111111111222
+Nicolaus Copernicus University in Toruń,linear,2025,2027,32.14777777777772
+Nicolaus Copernicus University in Toruń,linear,2025,2028,34.08444444444467
+Niigata University,naive,2025,2026,27.9
+Niigata University,naive,2025,2027,27.9
+Niigata University,naive,2025,2028,27.9
+North Carolina State University,linear,2025,2026,61.409999999999854
+North Carolina State University,linear,2025,2027,64.62090909090966
+North Carolina State University,linear,2025,2028,67.83181818181856
+Northeast Normal University,linear,2025,2026,36.66944444444425
+Northeast Normal University,linear,2025,2027,38.1344444444444
+Northeast Normal University,linear,2025,2028,39.59944444444409
+"Northeastern University, China",linear,2025,2026,41.73750000000018
+"Northeastern University, China",linear,2025,2027,44.345000000000255
+"Northeastern University, China",linear,2025,2028,46.95250000000033
+"Northeastern University, US",naive,2025,2026,57.2
+"Northeastern University, US",naive,2025,2027,57.2
+"Northeastern University, US",naive,2025,2028,57.2
+Northumbria University,naive,2025,2026,47.6
+Northumbria University,naive,2025,2027,47.6
+Northumbria University,naive,2025,2028,47.6
+Northwestern Polytechnical University,linear,2025,2026,60.340000000000146
+Northwestern Polytechnical University,linear,2025,2027,65.21181818181867
+Northwestern Polytechnical University,linear,2025,2028,70.0836363636372
+Northwestern University,naive,2025,2026,81.4
+Northwestern University,naive,2025,2027,81.4
+Northwestern University,naive,2025,2028,81.4
+Norwegian University of Life Sciences,naive,2025,2026,36.3
+Norwegian University of Life Sciences,naive,2025,2027,36.3
+Norwegian University of Life Sciences,naive,2025,2028,36.3
+Norwegian University of Science and Technology,linear,2025,2026,57.54333333333307
+Norwegian University of Science and Technology,linear,2025,2027,60.60757575757543
+Norwegian University of Science and Technology,linear,2025,2028,63.6718181818178
+Nottingham Trent University,linear,2025,2026,51.28333333333285
+Nottingham Trent University,linear,2025,2027,55.00393939393871
+Nottingham Trent University,linear,2025,2028,58.72454545454548
+Novosibirsk State Technical University,naive,2025,2026,17.8
+Novosibirsk State Technical University,naive,2025,2027,17.8
+Novosibirsk State Technical University,naive,2025,2028,17.8
+Novosibirsk State University,naive,2025,2026,36.3
+Novosibirsk State University,naive,2025,2027,36.3
+Novosibirsk State University,naive,2025,2028,36.3
+Oakland University,linear,2025,2026,34.47333333333336
+Oakland University,linear,2025,2027,36.87121212121201
+Oakland University,linear,2025,2028,39.269090909090664
+Ohio State University (Main campus),naive,2025,2026,65.2
+Ohio State University (Main campus),naive,2025,2027,65.2
+Ohio State University (Main campus),naive,2025,2028,65.2
+Oita University,naive,2025,2026,17.8
+Oita University,naive,2025,2027,17.8
+Oita University,naive,2025,2028,17.8
+Okayama University,linear,2025,2026,38.83333333333394
+Okayama University,linear,2025,2027,41.39848484848517
+Okayama University,linear,2025,2028,43.963636363637306
+Oklahoma State University,naive,2025,2026,40.7
+Oklahoma State University,naive,2025,2027,40.7
+Oklahoma State University,naive,2025,2028,40.7
+Old Dominion University,linear,2025,2026,36.95694444444507
+Old Dominion University,linear,2025,2027,38.07611111111146
+Old Dominion University,linear,2025,2028,39.1952777777783
+Oregon Health and Science University,naive,2025,2026,52.35
+Oregon Health and Science University,naive,2025,2027,52.35
+Oregon Health and Science University,naive,2025,2028,52.35
+Osmania University,naive,2025,2026,27.9
+Osmania University,naive,2025,2027,27.9
+Osmania University,naive,2025,2028,27.9
+Oxford Brookes University,linear,2025,2026,45.54333333333307
+Oxford Brookes University,linear,2025,2027,47.925757575756506
+Oxford Brookes University,linear,2025,2028,50.308181818180856
+Palacký University Olomouc,naive,2025,2026,32.55
+Palacký University Olomouc,naive,2025,2027,32.55
+Palacký University Olomouc,naive,2025,2028,32.55
+Panjab University,linear,2025,2026,46.636666666666315
+Panjab University,linear,2025,2027,49.83060606060553
+Panjab University,linear,2025,2028,53.02454545454475
+Panthéon-Sorbonne University – Paris 1,naive,2025,2026,36.3
+Panthéon-Sorbonne University – Paris 1,naive,2025,2027,36.3
+Panthéon-Sorbonne University – Paris 1,naive,2025,2028,36.3
+Peking University,linear,2025,2026,94.09333333333325
+Peking University,linear,2025,2027,96.10083333333341
+Peking University,linear,2025,2028,98.10833333333312
+Penn State (Main campus),naive,2025,2026,66.2
+Penn State (Main campus),naive,2025,2027,66.2
+Penn State (Main campus),naive,2025,2028,66.2
+Peter the Great St Petersburg Polytechnic University,linear,2025,2026,60.58333333333212
+Peter the Great St Petersburg Polytechnic University,linear,2025,2027,65.19666666666672
+Peter the Great St Petersburg Polytechnic University,linear,2025,2028,69.80999999999949
+Pohang University of Science and Technology (POSTECH),linear,2025,2026,54.980000000000246
+Pohang University of Science and Technology (POSTECH),linear,2025,2027,54.23500000000013
+Pohang University of Science and Technology (POSTECH),linear,2025,2028,53.49000000000024
+Politecnico di Milano,linear,2025,2026,63.35333333333347
+Politecnico di Milano,linear,2025,2027,66.96666666666624
+Politecnico di Milano,linear,2025,2028,70.57999999999993
+Polytechnic University of Turin,linear,2025,2026,51.35333333333347
+Polytechnic University of Turin,linear,2025,2027,54.19393939393922
+Polytechnic University of Turin,linear,2025,2028,57.03454545454497
+Polytechnic University of Valencia,linear,2025,2026,42.983333333333576
+Polytechnic University of Valencia,linear,2025,2027,45.58303030303068
+Polytechnic University of Valencia,linear,2025,2028,48.18272727272779
+Pompeu Fabra University,naive,2025,2026,60.1
+Pompeu Fabra University,naive,2025,2027,60.1
+Pompeu Fabra University,naive,2025,2028,60.1
+Pontifical Catholic University of Rio Grande do Sul (PUCRS),linear,2025,2026,38.626666666667006
+Pontifical Catholic University of Rio Grande do Sul (PUCRS),linear,2025,2027,41.26424242424309
+Pontifical Catholic University of Rio Grande do Sul (PUCRS),linear,2025,2028,43.90181818181827
+Pontifical Catholic University of Rio de Janeiro (PUC-Rio),linear,2025,2026,44.02333333333263
+Pontifical Catholic University of Rio de Janeiro (PUC-Rio),linear,2025,2027,46.92393939393878
+Pontifical Catholic University of Rio de Janeiro (PUC-Rio),linear,2025,2028,49.82454545454493
+Pontifical Catholic University of Valparaíso,naive,2025,2026,17.8
+Pontifical Catholic University of Valparaíso,naive,2025,2027,17.8
+Pontifical Catholic University of Valparaíso,naive,2025,2028,17.8
+Pontificia Universidad Católica de Chile,linear,2025,2026,54.34333333333325
+Pontificia Universidad Católica de Chile,linear,2025,2027,57.85393939393998
+Pontificia Universidad Católica de Chile,linear,2025,2028,61.364545454545805
+Pontificia Universidad Javeriana,linear,2025,2026,26.200000000000273
+Pontificia Universidad Javeriana,linear,2025,2027,24.88666666666677
+Pontificia Universidad Javeriana,linear,2025,2028,23.57333333333372
+Pontifícia Universidade Católica do Paraná,linear,2025,2026,30.729999999999563
+Pontifícia Universidade Católica do Paraná,linear,2025,2027,33.04818181818155
+Pontifícia Universidade Católica do Paraná,linear,2025,2028,35.36636363636353
+Portland State University,linear,2025,2026,41.14338709677395
+Portland State University,linear,2025,2027,43.914919354839185
+Portland State University,linear,2025,2028,46.68645161290351
+Prince of Songkla University,linear,2025,2026,29.06999999999971
+Prince of Songkla University,linear,2025,2027,31.237272727272284
+Prince of Songkla University,linear,2025,2028,33.40454545454577
+Princeton University,linear,2025,2026,94.50761904761902
+Princeton University,linear,2025,2027,94.71940476190474
+Princeton University,linear,2025,2028,94.93119047619047
+Purdue University West Lafayette,linear,2025,2026,68.04190476190479
+Purdue University West Lafayette,linear,2025,2027,68.78547619047617
+Purdue University West Lafayette,linear,2025,2028,69.52904761904756
+Pusan National University,linear,2025,2026,45.54999999999927
+Pusan National University,linear,2025,2027,48.55999999999949
+Pusan National University,linear,2025,2028,51.56999999999971
+Qatar University,linear,2025,2026,66.93999999999869
+Qatar University,linear,2025,2027,71.73636363636251
+Qatar University,linear,2025,2028,76.53272727272633
+Quaid-i-Azam University,linear,2025,2026,56.469999999999345
+Quaid-i-Azam University,linear,2025,2027,60.457083333332776
+Quaid-i-Azam University,linear,2025,2028,64.4441666666662
+Queen Mary University of London,naive,2025,2026,62.3
+Queen Mary University of London,naive,2025,2027,62.3
+Queen Mary University of London,naive,2025,2028,62.3
+Queensland University of Technology,naive,2025,2026,57.2
+Queensland University of Technology,naive,2025,2027,57.2
+Queensland University of Technology,naive,2025,2028,57.2
+Queen’s University,linear,2025,2026,56.005030674846694
+Queen’s University,linear,2025,2027,57.81380368098189
+Queen’s University,linear,2025,2028,59.622576687116634
+Queen’s University Belfast,linear,2025,2026,58.0633333333335
+Queen’s University Belfast,linear,2025,2027,59.06484848484865
+Queen’s University Belfast,linear,2025,2028,60.0663636363638
+RCSI University of Medicine and Health Sciences,naive,2025,2026,54.7
+RCSI University of Medicine and Health Sciences,naive,2025,2027,54.7
+RCSI University of Medicine and Health Sciences,naive,2025,2028,54.7
+RMIT University,linear,2025,2026,64.15666666666584
+RMIT University,linear,2025,2027,68.43878787878748
+RMIT University,linear,2025,2028,72.72090909090912
+RUDN University,linear,2025,2026,46.702777777777555
+RUDN University,linear,2025,2027,50.267777777778065
+RUDN University,linear,2025,2028,53.832777777777665
+RWTH Aachen University,linear,2025,2026,70.36285714285759
+RWTH Aachen University,linear,2025,2027,71.87321428571431
+RWTH Aachen University,linear,2025,2028,73.38357142857149
+Radboud University Nijmegen,naive,2025,2026,62.2
+Radboud University Nijmegen,naive,2025,2027,62.2
+Radboud University Nijmegen,naive,2025,2028,62.2
+Rensselaer Polytechnic Institute,linear,2025,2026,39.06968295904892
+Rensselaer Polytechnic Institute,linear,2025,2027,38.77450462351385
+Rensselaer Polytechnic Institute,linear,2025,2028,38.47932628797889
+Rice University,naive,2025,2026,65.4
+Rice University,naive,2025,2027,65.4
+Rice University,naive,2025,2028,65.4
+Riga Technical University,linear,2025,2026,31.827777777777555
+Riga Technical University,linear,2025,2027,33.804444444444016
+Riga Technical University,linear,2025,2028,35.78111111111093
+Ritsumeikan University,linear,2025,2026,22.32083333333344
+Ritsumeikan University,linear,2025,2027,23.198333333333494
+Ritsumeikan University,linear,2025,2028,24.07583333333355
+Robert Gordon University,linear,2025,2026,36.64861111111168
+Robert Gordon University,linear,2025,2027,39.28277777777839
+Robert Gordon University,linear,2025,2028,41.91694444444511
+Rochester Institute of Technology,linear,2025,2026,41.553333333333285
+Rochester Institute of Technology,linear,2025,2027,44.31393939394002
+Rochester Institute of Technology,linear,2025,2028,47.07454545454584
+Roskilde University,linear,2025,2026,40.74027777777792
+Roskilde University,linear,2025,2027,41.93277777777803
+Roskilde University,linear,2025,2028,43.12527777777814
+Rovira i Virgili University,linear,2025,2026,47.29333333333307
+Rovira i Virgili University,linear,2025,2027,49.74757575757576
+Rovira i Virgili University,linear,2025,2028,52.20181818181845
+"Royal Holloway, University of London",naive,2025,2026,47.6
+"Royal Holloway, University of London",naive,2025,2027,47.6
+"Royal Holloway, University of London",naive,2025,2028,47.6
+Royal Veterinary College,linear,2025,2026,54.22999999999956
+Royal Veterinary College,linear,2025,2027,57.09181818181787
+Royal Veterinary College,linear,2025,2028,59.95363636363618
+Ruhr University Bochum,linear,2025,2026,62.75000000000091
+Ruhr University Bochum,linear,2025,2027,66.04272727272746
+Ruhr University Bochum,linear,2025,2028,69.33545454545492
+Rush University,naive,2025,2026,44.599999999999994
+Rush University,naive,2025,2027,44.599999999999994
+Rush University,naive,2025,2028,44.599999999999994
+Rutgers University–New Brunswick,naive,2025,2026,52.35
+Rutgers University–New Brunswick,naive,2025,2027,52.35
+Rutgers University–New Brunswick,naive,2025,2028,52.35
+SOAS University of London,linear,2025,2026,47.92361111111131
+SOAS University of London,linear,2025,2027,49.3227777777779
+SOAS University of London,linear,2025,2028,50.721944444444944
+SRM Institute of Science and Technology,linear,2025,2026,29.73055555555584
+SRM Institute of Science and Technology,linear,2025,2027,31.898888888888905
+SRM Institute of Science and Technology,linear,2025,2028,34.06722222222197
+SUNY Binghamton University,naive,2025,2026,40.7
+SUNY Binghamton University,naive,2025,2027,40.7
+SUNY Binghamton University,naive,2025,2028,40.7
+Sabancı University,linear,2025,2026,51.13454545454579
+Sabancı University,linear,2025,2027,53.07136363636391
+Sabancı University,linear,2025,2028,55.00818181818204
+Saitama Medical University,linear,2025,2026,28.42361111111086
+Saitama Medical University,linear,2025,2027,30.112777777777865
+Saitama Medical University,linear,2025,2028,31.801944444444416
+Saitama University,naive,2025,2026,17.8
+Saitama University,naive,2025,2027,17.8
+Saitama University,naive,2025,2028,17.8
+San Diego State University,naive,2025,2026,32.55
+San Diego State University,naive,2025,2027,32.55
+San Diego State University,naive,2025,2028,32.55
+Sant’Anna School of Advanced Studies – Pisa,naive,2025,2026,57.2
+Sant’Anna School of Advanced Studies – Pisa,naive,2025,2027,57.2
+Sant’Anna School of Advanced Studies – Pisa,naive,2025,2028,57.2
+Sapienza University of Rome,linear,2025,2026,69.98666666666759
+Sapienza University of Rome,linear,2025,2027,74.2824242424249
+Sapienza University of Rome,linear,2025,2028,78.5781818181822
+Sathyabama Institute of Science and Technology,linear,2025,2026,27.663888888889232
+Sathyabama Institute of Science and Technology,linear,2025,2027,29.522222222222354
+Sathyabama Institute of Science and Technology,linear,2025,2028,31.38055555555593
+Savitribai Phule Pune University,naive,2025,2026,36.3
+Savitribai Phule Pune University,naive,2025,2027,36.3
+Savitribai Phule Pune University,naive,2025,2028,36.3
+Scuola Normale Superiore di Pisa,linear,2025,2026,57.910909090909115
+Scuola Normale Superiore di Pisa,linear,2025,2027,58.02181818181819
+Scuola Normale Superiore di Pisa,linear,2025,2028,58.132727272727294
+Sechenov University,linear,2025,2026,37.619444444444525
+Sechenov University,linear,2025,2027,40.74111111111051
+Sechenov University,linear,2025,2028,43.86277777777741
+Sejong University,linear,2025,2026,66.94666666666672
+Sejong University,linear,2025,2027,71.91424242424182
+Sejong University,linear,2025,2028,76.88181818181874
+Semmelweis University,linear,2025,2026,65.68999999999869
+Semmelweis University,linear,2025,2027,70.35818181818104
+Semmelweis University,linear,2025,2028,75.02636363636339
+Seoul National University,linear,2025,2026,75.31904761904752
+Seoul National University,linear,2025,2027,76.52976190476147
+Seoul National University,linear,2025,2028,77.74047619047587
+Shahid Beheshti University,linear,2025,2026,44.44879032258086
+Shahid Beheshti University,linear,2025,2027,48.025000000000546
+Shahid Beheshti University,linear,2025,2028,51.60120967741932
+Shanghai Jiao Tong University,linear,2025,2026,90.21333333333132
+Shanghai Jiao Tong University,linear,2025,2027,96.37303030302974
+Shanghai Jiao Tong University,linear,2025,2028,102.53272727272633
+Shanghai University,linear,2025,2026,52.16000000000167
+Shanghai University,linear,2025,2027,56.59909090909241
+Shanghai University,linear,2025,2028,61.03818181818315
+Shantou University,linear,2025,2026,39.57333333333372
+Shantou University,linear,2025,2027,42.16666666666697
+Shantou University,linear,2025,2028,44.76000000000022
+Sharif University of Technology,linear,2025,2026,60.65666666666584
+Sharif University of Technology,linear,2025,2027,65.23424242424153
+Sharif University of Technology,linear,2025,2028,69.81181818181722
+Sheffield Hallam University,linear,2025,2026,42.863333333333685
+Sheffield Hallam University,linear,2025,2027,46.29939393939458
+Sheffield Hallam University,linear,2025,2028,49.73545454545456
+Shibaura Institute of Technology,linear,2025,2026,23.174999999999727
+Shibaura Institute of Technology,linear,2025,2027,24.359999999999673
+Shibaura Institute of Technology,linear,2025,2028,25.545000000000073
+Shimane University,naive,2025,2026,17.8
+Shimane University,naive,2025,2027,17.8
+Shimane University,naive,2025,2028,17.8
+Shinshu University,linear,2025,2026,29.433333333333394
+Shinshu University,linear,2025,2027,31.253939393939618
+Shinshu University,linear,2025,2028,33.07454545454539
+Shiraz University,linear,2025,2026,38.120833333333394
+Shiraz University,linear,2025,2027,40.20499999999993
+Shiraz University,linear,2025,2028,42.28916666666646
+Shizuoka University,naive,2025,2026,17.8
+Shizuoka University,naive,2025,2027,17.8
+Shizuoka University,naive,2025,2028,17.8
+Showa University,linear,2025,2026,29.06999999999971
+Showa University,linear,2025,2027,31.237272727272284
+Showa University,linear,2025,2028,33.40454545454577
+Siberian Federal University,linear,2025,2026,33.13194444444434
+Siberian Federal University,linear,2025,2027,35.68611111111113
+Siberian Federal University,linear,2025,2028,38.24027777777792
+Sichuan University,linear,2025,2026,68.31000000000131
+Sichuan University,linear,2025,2027,74.18545454545529
+Sichuan University,linear,2025,2028,80.06090909091108
+Sidi Mohamed Ben Abdellah University,naive,2025,2026,27.9
+Sidi Mohamed Ben Abdellah University,naive,2025,2027,27.9
+Sidi Mohamed Ben Abdellah University,naive,2025,2028,27.9
+Simon Fraser University,naive,2025,2026,52.35
+Simon Fraser University,naive,2025,2027,52.35
+Simon Fraser University,naive,2025,2028,52.35
+Slovak University of Technology in Bratislava,naive,2025,2026,17.8
+Slovak University of Technology in Bratislava,naive,2025,2027,17.8
+Slovak University of Technology in Bratislava,naive,2025,2028,17.8
+Sofia University,naive,2025,2026,17.8
+Sofia University,naive,2025,2027,17.8
+Sofia University,naive,2025,2028,17.8
+Sogang University,linear,2025,2026,37.899999999999636
+Sogang University,linear,2025,2027,40.0363636363636
+Sogang University,linear,2025,2028,42.17272727272666
+"Soochow University, China",linear,2025,2026,50.469999999999345
+"Soochow University, China",linear,2025,2027,53.593636363635596
+"Soochow University, China",linear,2025,2028,56.71727272727276
+Sophia University,naive,2025,2026,17.8
+Sophia University,naive,2025,2027,17.8
+Sophia University,naive,2025,2028,17.8
+South China University of Technology,linear,2025,2026,62.88000000000102
+South China University of Technology,linear,2025,2027,67.67909090909234
+South China University of Technology,linear,2025,2028,72.47818181818366
+South Valley University  (Egypt),linear,2025,2026,30.940277777778192
+South Valley University  (Egypt),linear,2025,2027,32.899444444444725
+South Valley University  (Egypt),linear,2025,2028,34.85861111111126
+Southeast University,linear,2025,2026,53.880555555555475
+Southeast University,linear,2025,2027,56.6455555555558
+Southeast University,linear,2025,2028,59.41055555555522
+Southern Cross University,linear,2025,2026,49.17000000000007
+Southern Cross University,linear,2025,2027,52.15545454545463
+Southern Cross University,linear,2025,2028,55.14090909090919
+Southern Federal University,linear,2025,2026,25.029999999999745
+Southern Federal University,linear,2025,2027,26.646363636363276
+Southern Federal University,linear,2025,2028,28.262727272726806
+Sri Venkateswara University,naive,2025,2026,27.9
+Sri Venkateswara University,naive,2025,2027,27.9
+Sri Venkateswara University,naive,2025,2028,27.9
+"St George’s, University of London",naive,2025,2026,52.35
+"St George’s, University of London",naive,2025,2027,52.35
+"St George’s, University of London",naive,2025,2028,52.35
+Stanford University,naive,2025,2026,97.2
+Stanford University,naive,2025,2027,97.2
+Stanford University,naive,2025,2028,97.2
+Stellenbosch University,naive,2025,2026,52.35
+Stellenbosch University,naive,2025,2027,52.35
+Stellenbosch University,naive,2025,2028,52.35
+Stevens Institute of Technology,linear,2025,2026,47.094444444444434
+Stevens Institute of Technology,linear,2025,2027,48.8844444444444
+Stevens Institute of Technology,linear,2025,2028,50.67444444444436
+Stockholm University,naive,2025,2026,59.2
+Stockholm University,naive,2025,2027,59.2
+Stockholm University,naive,2025,2028,59.2
+Stony Brook University,linear,2025,2026,48.158571428571406
+Stony Brook University,linear,2025,2027,48.40339285714282
+Stony Brook University,linear,2025,2028,48.64821428571429
+Suez Canal University,linear,2025,2026,42.78666666666686
+Suez Canal University,linear,2025,2027,45.46424242424291
+Suez Canal University,linear,2025,2028,48.14181818181805
+Sultan Qaboos University,linear,2025,2026,46.136666666667224
+Sultan Qaboos University,linear,2025,2027,49.74242424242493
+Sultan Qaboos University,linear,2025,2028,53.34818181818264
+Sun Yat-sen University,linear,2025,2026,55.79696132596655
+Sun Yat-sen University,linear,2025,2027,57.67505524861872
+Sun Yat-sen University,linear,2025,2028,59.553149171270434
+Sungkyunkwan University (SKKU),naive,2025,2026,66.1
+Sungkyunkwan University (SKKU),naive,2025,2027,66.1
+Sungkyunkwan University (SKKU),naive,2025,2028,66.1
+Suranaree University of Technology,linear,2025,2026,27.279999999999745
+Suranaree University of Technology,linear,2025,2027,28.661818181818035
+Suranaree University of Technology,linear,2025,2028,30.043636363636324
+Swansea University,linear,2025,2026,63.34666666666635
+Swansea University,linear,2025,2027,66.85878787878755
+Swansea University,linear,2025,2028,70.37090909090875
+Swedish University of Agricultural Sciences,linear,2025,2026,51.15607734806645
+Swedish University of Agricultural Sciences,linear,2025,2027,52.46488950276262
+Swedish University of Agricultural Sciences,linear,2025,2028,53.77370165745879
+Swinburne University of Technology,linear,2025,2026,64.2566666666662
+Swinburne University of Technology,linear,2025,2027,68.47242424242359
+Swinburne University of Technology,linear,2025,2028,72.68818181818096
+Syracuse University,naive,2025,2026,47.6
+Syracuse University,naive,2025,2027,47.6
+Syracuse University,naive,2025,2028,47.6
+TOBB University of Economics and Technology,linear,2025,2026,26.45277777777801
+TOBB University of Economics and Technology,linear,2025,2027,27.607777777777756
+TOBB University of Economics and Technology,linear,2025,2028,28.762777777777956
+TU Dortmund University,linear,2025,2026,54.03333333333376
+TU Dortmund University,linear,2025,2027,56.696666666666715
+TU Dortmund University,linear,2025,2028,59.36000000000058
+TU Dresden,naive,2025,2026,61.1
+TU Dresden,naive,2025,2027,61.1
+TU Dresden,naive,2025,2028,61.1
+TU Wien,linear,2025,2026,58.73000000000047
+TU Wien,linear,2025,2027,61.875454545454886
+TU Wien,linear,2025,2028,65.0209090909093
+Taipei Medical University,naive,2025,2026,47.6
+Taipei Medical University,naive,2025,2027,47.6
+Taipei Medical University,naive,2025,2028,47.6
+Tallinn University of Technology,linear,2025,2026,46.71333333333314
+Tallinn University of Technology,linear,2025,2027,50.05666666666639
+Tallinn University of Technology,linear,2025,2028,53.399999999999636
+Tamkang University,linear,2025,2026,23.174999999999727
+Tamkang University,linear,2025,2027,24.359999999999673
+Tamkang University,linear,2025,2028,25.545000000000073
+Taras Shevchenko National University of Kyiv,naive,2025,2026,17.8
+Taras Shevchenko National University of Kyiv,naive,2025,2027,17.8
+Taras Shevchenko National University of Kyiv,naive,2025,2028,17.8
+Technical University of Berlin,linear,2025,2026,60.24166666666666
+Technical University of Berlin,linear,2025,2027,60.31666666666668
+Technical University of Berlin,linear,2025,2028,60.391666666666666
+Technical University of Darmstadt,linear,2025,2026,61.886666666666315
+Technical University of Darmstadt,linear,2025,2027,65.0396969696967
+Technical University of Darmstadt,linear,2025,2028,68.1927272727271
+Technical University of Denmark,linear,2025,2026,61.752380952381145
+Technical University of Denmark,linear,2025,2027,62.6380952380955
+Technical University of Denmark,linear,2025,2028,63.52380952380963
+Technical University of Liberec,naive,2025,2026,17.8
+Technical University of Liberec,naive,2025,2027,17.8
+Technical University of Liberec,naive,2025,2028,17.8
+Technical University of Madrid,linear,2025,2026,38.293333333333976
+Technical University of Madrid,linear,2025,2027,40.60939393939407
+Technical University of Madrid,linear,2025,2028,42.92545454545507
+Technical University of Munich,linear,2025,2026,86.72952380952302
+Technical University of Munich,linear,2025,2027,88.9323809523803
+Technical University of Munich,linear,2025,2028,91.13523809523758
+Technion Israel Institute of Technology,linear,2025,2026,49.95986394557849
+Technion Israel Institute of Technology,linear,2025,2027,51.49013605442224
+Technion Israel Institute of Technology,linear,2025,2028,53.02040816326553
+Tecnológico de Monterrey,linear,2025,2026,45.70333333333383
+Tecnológico de Monterrey,linear,2025,2027,48.60030303030362
+Tecnológico de Monterrey,linear,2025,2028,51.49727272727341
+Teesside University,linear,2025,2026,33.234722222222445
+Teesside University,linear,2025,2027,34.48388888888894
+Teesside University,linear,2025,2028,35.73305555555589
+Tehran University of Medical Sciences,linear,2025,2026,50.45333333333292
+Tehran University of Medical Sciences,linear,2025,2027,54.00121212121212
+Tehran University of Medical Sciences,linear,2025,2028,57.54909090909041
+Tel Aviv University,naive,2025,2026,57.2
+Tel Aviv University,naive,2025,2027,57.2
+Tel Aviv University,naive,2025,2028,57.2
+Temple University,naive,2025,2026,50.2
+Temple University,naive,2025,2027,50.2
+Temple University,naive,2025,2028,50.2
+Texas A&M University,linear,2025,2026,62.28131868131868
+Texas A&M University,linear,2025,2027,63.39406593406602
+Texas A&M University,linear,2025,2028,64.50681318681336
+Texas Tech University,linear,2025,2026,46.1866666666665
+Texas Tech University,linear,2025,2027,49.176060606059764
+Texas Tech University,linear,2025,2028,52.16545454545394
+Tezpur University,naive,2025,2026,17.8
+Tezpur University,naive,2025,2027,17.8
+Tezpur University,naive,2025,2028,17.8
+The Chinese University of Hong Kong,linear,2025,2026,81.50659340659331
+The Chinese University of Hong Kong,linear,2025,2027,83.80461538461532
+The Chinese University of Hong Kong,linear,2025,2028,86.10263736263732
+The Hashemite University,linear,2025,2026,29.73055555555584
+The Hashemite University,linear,2025,2027,31.898888888888905
+The Hashemite University,linear,2025,2028,34.06722222222197
+The Hong Kong Polytechnic University,linear,2025,2026,70.58232044198758
+The Hong Kong Polytechnic University,linear,2025,2027,73.20668508287145
+The Hong Kong Polytechnic University,linear,2025,2028,75.83104972375622
+The Hong Kong University of Science and Technology,naive,2025,2026,72.9
+The Hong Kong University of Science and Technology,naive,2025,2027,72.9
+The Hong Kong University of Science and Technology,naive,2025,2028,72.9
+The Jikei University School of Medicine,linear,2025,2026,30.505555555555475
+The Jikei University School of Medicine,linear,2025,2027,31.295555555555666
+The Jikei University School of Medicine,linear,2025,2028,32.08555555555563
+The Open University,naive,2025,2026,36.3
+The Open University,naive,2025,2027,36.3
+The Open University,naive,2025,2028,36.3
+The University of Chicago,naive,2025,2026,90.9
+The University of Chicago,naive,2025,2027,90.9
+The University of Chicago,naive,2025,2028,90.9
+The University of Jordan,linear,2025,2026,47.423333333334085
+The University of Jordan,linear,2025,2027,51.43848484848513
+The University of Jordan,linear,2025,2028,55.45363636363709
+The University of Osaka,linear,2025,2026,51.985238095238174
+The University of Osaka,linear,2025,2027,52.601309523809505
+The University of Osaka,linear,2025,2028,53.217380952380836
+The University of Queensland,naive,2025,2026,70.3
+The University of Queensland,naive,2025,2027,70.3
+The University of Queensland,naive,2025,2028,70.3
+The University of Sydney,naive,2025,2026,73.7
+The University of Sydney,naive,2025,2027,73.7
+The University of Sydney,naive,2025,2028,73.7
+The University of Tennessee-Knoxville,linear,2025,2026,60.840000000000146
+The University of Tennessee-Knoxville,linear,2025,2027,64.16636363636371
+The University of Tennessee-Knoxville,linear,2025,2028,67.49272727272728
+The University of Texas at San Antonio,naive,2025,2026,40.7
+The University of Texas at San Antonio,naive,2025,2027,40.7
+The University of Texas at San Antonio,naive,2025,2028,40.7
+The University of Tokyo,linear,2025,2026,79.06095238095236
+The University of Tokyo,linear,2025,2027,79.42523809523811
+The University of Tokyo,linear,2025,2028,79.78952380952376
+The University of Tulsa,naive,2025,2026,44.599999999999994
+The University of Tulsa,naive,2025,2027,44.599999999999994
+The University of Tulsa,naive,2025,2028,44.599999999999994
+The University of Western Australia,naive,2025,2026,62.0
+The University of Western Australia,naive,2025,2027,62.0
+The University of Western Australia,naive,2025,2028,62.0
+Tianjin University,linear,2025,2026,63.88000000000102
+Tianjin University,linear,2025,2027,68.63727272727374
+Tianjin University,linear,2025,2028,73.39454545454646
+Tilburg University,naive,2025,2026,54.7
+Tilburg University,naive,2025,2027,54.7
+Tilburg University,naive,2025,2028,54.7
+Tohoku University,linear,2025,2026,57.02999999999997
+Tohoku University,linear,2025,2027,58.03749999999991
+Tohoku University,linear,2025,2028,59.044999999999845
+Tokai University,linear,2025,2026,29.06999999999971
+Tokai University,linear,2025,2027,31.237272727272284
+Tokai University,linear,2025,2028,33.40454545454577
+Tokushima University,linear,2025,2026,27.783333333333303
+Tokushima University,linear,2025,2027,29.39393939393949
+Tokushima University,linear,2025,2028,31.004545454545678
+Tokyo City University,naive,2025,2026,17.8
+Tokyo City University,naive,2025,2027,17.8
+Tokyo City University,naive,2025,2028,17.8
+Tokyo Denki University,naive,2025,2026,17.8
+Tokyo Denki University,naive,2025,2027,17.8
+Tokyo Denki University,naive,2025,2028,17.8
+Tokyo Institute of Technology,linear,2025,2026,50.502857142857124
+Tokyo Institute of Technology,linear,2025,2027,50.88696428571427
+Tokyo Institute of Technology,linear,2025,2028,51.27107142857142
+Tokyo Medical and Dental University (TMDU),linear,2025,2026,54.590000000001055
+Tokyo Medical and Dental University (TMDU),linear,2025,2027,57.80727272727381
+Tokyo Medical and Dental University (TMDU),linear,2025,2028,61.02454545454657
+Tokyo Metropolitan University,naive,2025,2026,27.9
+Tokyo Metropolitan University,naive,2025,2027,27.9
+Tokyo Metropolitan University,naive,2025,2028,27.9
+Tokyo University of Agriculture and Technology,linear,2025,2026,34.48666666666668
+Tokyo University of Agriculture and Technology,linear,2025,2027,36.61424242424255
+Tokyo University of Agriculture and Technology,linear,2025,2028,38.74181818181751
+Tokyo University of Marine Science and Technology,linear,2025,2026,29.06999999999971
+Tokyo University of Marine Science and Technology,linear,2025,2027,31.237272727272284
+Tokyo University of Marine Science and Technology,linear,2025,2028,33.40454545454577
+Tokyo University of Science,linear,2025,2026,27.866666666666788
+Tokyo University of Science,linear,2025,2027,29.195151515151338
+Tokyo University of Science,linear,2025,2028,30.523636363636342
+Tomas Bata University in Zlín,linear,2025,2026,26.809722222222263
+Tomas Bata University in Zlín,linear,2025,2027,28.360555555555493
+Tomas Bata University in Zlín,linear,2025,2028,29.911388888888723
+Tomsk Polytechnic University,linear,2025,2026,38.11666666666679
+Tomsk Polytechnic University,linear,2025,2027,39.66333333333341
+Tomsk Polytechnic University,linear,2025,2028,41.210000000000036
+Tomsk State University,linear,2025,2026,50.469999999999345
+Tomsk State University,linear,2025,2027,53.593636363635596
+Tomsk State University,linear,2025,2028,56.71727272727276
+Tongji University,linear,2025,2026,69.04333333333307
+Tongji University,linear,2025,2027,74.189393939394
+Tongji University,linear,2025,2028,79.33545454545492
+Tottori University,naive,2025,2026,17.8
+Tottori University,naive,2025,2027,17.8
+Tottori University,naive,2025,2028,17.8
+Toyohashi University of Technology (TUT),linear,2025,2026,29.433333333333394
+Toyohashi University of Technology (TUT),linear,2025,2027,31.253939393939618
+Toyohashi University of Technology (TUT),linear,2025,2028,33.07454545454539
+Trinity College Dublin,linear,2025,2026,61.03047619047618
+Trinity College Dublin,linear,2025,2027,61.525119047619
+Trinity College Dublin,linear,2025,2028,62.019761904761936
+Tsinghua University,linear,2025,2026,96.69047619047615
+Tsinghua University,linear,2025,2027,99.14761904761872
+Tsinghua University,linear,2025,2028,101.6047619047622
+Tufts University,naive,2025,2026,59.8
+Tufts University,naive,2025,2027,59.8
+Tufts University,naive,2025,2028,59.8
+Tulane University,naive,2025,2026,47.6
+Tulane University,naive,2025,2027,47.6
+Tulane University,naive,2025,2028,47.6
+UCL,naive,2025,2026,87.7
+UCL,naive,2025,2027,87.7
+UCL,naive,2025,2028,87.7
+UNSW Sydney,naive,2025,2026,69.1
+UNSW Sydney,naive,2025,2027,69.1
+UNSW Sydney,naive,2025,2028,69.1
+UWE Bristol (University of the West of England),linear,2025,2026,53.76333333333241
+UWE Bristol (University of the West of England),linear,2025,2027,57.675757575757416
+UWE Bristol (University of the West of England),linear,2025,2028,61.58818181818151
+UiT The Arctic University of Norway,naive,2025,2026,40.7
+UiT The Arctic University of Norway,naive,2025,2027,40.7
+UiT The Arctic University of Norway,naive,2025,2028,40.7
+Ulm University,naive,2025,2026,58.7
+Ulm University,naive,2025,2027,58.7
+Ulm University,naive,2025,2028,58.7
+Ulster University,linear,2025,2026,46.52000000000044
+Ulster University,linear,2025,2027,49.35636363636331
+Ulster University,linear,2025,2028,52.1927272727271
+Umeå University,naive,2025,2026,50.2
+Umeå University,naive,2025,2027,50.2
+Umeå University,naive,2025,2028,50.2
+United Arab Emirates University,linear,2025,2026,64.65666666666766
+United Arab Emirates University,linear,2025,2027,69.14242424242548
+United Arab Emirates University,linear,2025,2028,73.6281818181833
+Universidad Autónoma de Nuevo León (UANL),naive,2025,2026,17.8
+Universidad Autónoma de Nuevo León (UANL),naive,2025,2027,17.8
+Universidad Autónoma de Nuevo León (UANL),naive,2025,2028,17.8
+Universidad Autónoma de Yucatán,naive,2025,2026,17.8
+Universidad Autónoma de Yucatán,naive,2025,2027,17.8
+Universidad Autónoma de Yucatán,naive,2025,2028,17.8
+Universidad Autónoma del Estado de Mexico (UAEMex),naive,2025,2026,17.8
+Universidad Autónoma del Estado de Mexico (UAEMex),naive,2025,2027,17.8
+Universidad Autónoma del Estado de Mexico (UAEMex),naive,2025,2028,17.8
+Universidade Estadual Paulista (Unesp),linear,2025,2026,40.3666666666677
+Universidade Estadual Paulista (Unesp),linear,2025,2027,43.126969696970264
+Universidade Estadual Paulista (Unesp),linear,2025,2028,45.88727272727374
+Universidade Estadual de Maringá,naive,2025,2026,17.8
+Universidade Estadual de Maringá,naive,2025,2027,17.8
+Universidade Estadual de Maringá,naive,2025,2028,17.8
+Universidade Federal da Bahia,linear,2025,2026,25.452426470588307
+Universidade Federal da Bahia,linear,2025,2027,27.113529411764375
+Universidade Federal da Bahia,linear,2025,2028,28.7746323529409
+Universidade Federal de Pernambuco,naive,2025,2026,17.8
+Universidade Federal de Pernambuco,naive,2025,2027,17.8
+Universidade Federal de Pernambuco,naive,2025,2028,17.8
+Universidade Federal de Santa Catarina,naive,2025,2026,32.55
+Universidade Federal de Santa Catarina,naive,2025,2027,32.55
+Universidade Federal de Santa Catarina,naive,2025,2028,32.55
+Universidade Federal de São Paulo (UNIFESP),naive,2025,2026,36.3
+Universidade Federal de São Paulo (UNIFESP),naive,2025,2027,36.3
+Universidade Federal de São Paulo (UNIFESP),naive,2025,2028,36.3
+Universidade Federal do ABC (UFABC),linear,2025,2026,24.780555555555566
+Universidade Federal do ABC (UFABC),linear,2025,2027,25.178888888888878
+Universidade Federal do ABC (UFABC),linear,2025,2028,25.57722222222219
+Universidade Federal do Ceará (UFC),naive,2025,2026,17.8
+Universidade Federal do Ceará (UFC),naive,2025,2027,17.8
+Universidade Federal do Ceará (UFC),naive,2025,2028,17.8
+Universidade Federal do Paraná (UFPR),linear,2025,2026,28.193333333333157
+Universidade Federal do Paraná (UFPR),linear,2025,2027,30.137575757575632
+Universidade Federal do Paraná (UFPR),linear,2025,2028,32.08181818181811
+Universidade Federal do Rio Grande do Sul,linear,2025,2026,47.90333333333365
+Universidade Federal do Rio Grande do Sul,linear,2025,2027,51.24121212121281
+Universidade Federal do Rio Grande do Sul,linear,2025,2028,54.579090909091065
+Universidade do Estado do Rio de Janeiro (UERJ),linear,2025,2026,25.029999999999745
+Universidade do Estado do Rio de Janeiro (UERJ),linear,2025,2027,26.646363636363276
+Universidade do Estado do Rio de Janeiro (UERJ),linear,2025,2028,28.262727272726806
+Universitat Autònoma de Barcelona (UAB),naive,2025,2026,58.7
+Universitat Autònoma de Barcelona (UAB),naive,2025,2027,58.7
+Universitat Autònoma de Barcelona (UAB),naive,2025,2028,58.7
+Universitat Politècnica de Catalunya,linear,2025,2026,44.27666666666664
+Universitat Politècnica de Catalunya,linear,2025,2027,46.515151515151956
+Universitat Politècnica de Catalunya,linear,2025,2028,48.75363636363636
+Universiti Kebangsaan Malaysia,linear,2025,2026,53.26333333333332
+Universiti Kebangsaan Malaysia,linear,2025,2027,57.30848484848593
+Universiti Kebangsaan Malaysia,linear,2025,2028,61.353636363636724
+Universiti Putra Malaysia,linear,2025,2026,49.303333333333285
+Universiti Putra Malaysia,linear,2025,2027,52.95121212121194
+Universiti Putra Malaysia,linear,2025,2028,56.59909090909059
+Universiti Sains Malaysia,linear,2025,2026,53.26333333333332
+Universiti Sains Malaysia,linear,2025,2027,57.30848484848593
+Universiti Sains Malaysia,linear,2025,2028,61.353636363636724
+Universiti Teknologi MARA,naive,2025,2026,17.8
+Universiti Teknologi MARA,naive,2025,2027,17.8
+Universiti Teknologi MARA,naive,2025,2028,17.8
+Universiti Teknologi Malaysia,linear,2025,2026,53.26333333333332
+Universiti Teknologi Malaysia,linear,2025,2027,57.30848484848593
+Universiti Teknologi Malaysia,linear,2025,2028,61.353636363636724
+Universiti Teknologi Petronas,linear,2025,2026,58.15833333333467
+Universiti Teknologi Petronas,linear,2025,2027,62.32333333333372
+Universiti Teknologi Petronas,linear,2025,2028,66.4883333333346
+Universiti Utara Malaysia,linear,2025,2026,55.53333333333467
+Universiti Utara Malaysia,linear,2025,2027,60.42000000000007
+Universiti Utara Malaysia,linear,2025,2028,65.3066666666673
+University Cadi Ayyad of Marrakech,linear,2025,2026,26.550000000000182
+University Cadi Ayyad of Marrakech,linear,2025,2027,28.191818181818235
+University Cadi Ayyad of Marrakech,linear,2025,2028,29.833636363636288
+University College Cork,linear,2025,2026,61.349999999999454
+University College Cork,linear,2025,2027,64.92090909090894
+University College Cork,linear,2025,2028,68.49181818181842
+University College Dublin,linear,2025,2026,54.53745046235133
+University College Dublin,linear,2025,2027,54.94914134742396
+University College Dublin,linear,2025,2028,55.360832232496705
+University Rey Juan Carlos,linear,2025,2026,26.608333333333235
+University Rey Juan Carlos,linear,2025,2027,27.049999999999955
+University Rey Juan Carlos,linear,2025,2028,27.49166666666656
+University at Buffalo,linear,2025,2026,54.21153846153857
+University at Buffalo,linear,2025,2027,55.546153846154084
+University at Buffalo,linear,2025,2028,56.8807692307696
+University of A Coruña,linear,2025,2026,33.19999999999982
+University of A Coruña,linear,2025,2027,35.290909090908826
+University of A Coruña,linear,2025,2028,37.381818181817835
+University of Aberdeen,naive,2025,2026,57.2
+University of Aberdeen,naive,2025,2027,57.2
+University of Aberdeen,naive,2025,2028,57.2
+University of Abou Bekr Belkaïd Tlemcen,naive,2025,2026,17.8
+University of Abou Bekr Belkaïd Tlemcen,naive,2025,2027,17.8
+University of Abou Bekr Belkaïd Tlemcen,naive,2025,2028,17.8
+University of Adelaide,linear,2025,2026,65.23282122905039
+University of Adelaide,linear,2025,2027,66.18736033519554
+University of Adelaide,linear,2025,2028,67.14189944134091
+University of Alaska Fairbanks,naive,2025,2026,40.7
+University of Alaska Fairbanks,naive,2025,2027,40.7
+University of Alaska Fairbanks,naive,2025,2028,40.7
+University of Alberta,linear,2025,2026,64.59523809523785
+University of Alberta,linear,2025,2027,65.44130952380942
+University of Alberta,linear,2025,2028,66.28738095238077
+University of Alcalá,linear,2025,2026,42.590000000000146
+University of Alcalá,linear,2025,2027,45.31454545454562
+University of Alcalá,linear,2025,2028,48.0390909090911
+University of Amsterdam,linear,2025,2026,76.65142857142882
+University of Amsterdam,linear,2025,2027,78.12535714285741
+University of Amsterdam,linear,2025,2028,79.599285714286
+University of Antioquia,linear,2025,2026,29.443333333333612
+University of Antioquia,linear,2025,2027,31.352121212121347
+University of Antioquia,linear,2025,2028,33.260909090909536
+University of Antwerp,linear,2025,2026,62.50192307692305
+University of Antwerp,linear,2025,2027,63.84999999999991
+University of Antwerp,linear,2025,2028,65.19807692307677
+University of Arizona,naive,2025,2026,62.7
+University of Arizona,naive,2025,2027,62.7
+University of Arizona,naive,2025,2028,62.7
+University of Arkansas,linear,2025,2026,48.08000000000084
+University of Arkansas,linear,2025,2027,51.129090909091246
+University of Arkansas,linear,2025,2028,54.178181818182566
+University of Auckland,linear,2025,2026,62.05333333333374
+University of Auckland,linear,2025,2027,63.12208333333365
+University of Auckland,linear,2025,2028,64.19083333333356
+University of Aveiro,linear,2025,2026,43.506666666667115
+University of Aveiro,linear,2025,2027,45.78787878787898
+University of Aveiro,linear,2025,2028,48.069090909090846
+University of Barcelona,linear,2025,2026,59.08977900552486
+University of Barcelona,linear,2025,2027,59.90745856353578
+University of Barcelona,linear,2025,2028,60.725138121546934
+University of Bari Aldo Moro,naive,2025,2026,40.7
+University of Bari Aldo Moro,naive,2025,2027,40.7
+University of Bari Aldo Moro,naive,2025,2028,40.7
+University of Basel,naive,2025,2026,64.2
+University of Basel,naive,2025,2027,64.2
+University of Basel,naive,2025,2028,64.2
+University of Bath,linear,2025,2026,64.91666666666697
+University of Bath,linear,2025,2027,68.44787878787884
+University of Bath,linear,2025,2028,71.9790909090907
+University of Bayreuth,linear,2025,2026,57.97333333333336
+University of Bayreuth,linear,2025,2027,60.957575757575796
+University of Bayreuth,linear,2025,2028,63.941818181818235
+University of Bedfordshire,linear,2025,2026,33.8347222222219
+University of Bedfordshire,linear,2025,2027,35.07388888888863
+University of Bedfordshire,linear,2025,2028,36.313055555555366
+University of Beira Interior,linear,2025,2026,42.145833333333485
+University of Beira Interior,linear,2025,2027,44.11500000000024
+University of Beira Interior,linear,2025,2028,46.08416666666699
+University of Bergamo,naive,2025,2026,32.55
+University of Bergamo,naive,2025,2027,32.55
+University of Bergamo,naive,2025,2028,32.55
+University of Bergen,naive,2025,2026,54.7
+University of Bergen,naive,2025,2027,54.7
+University of Bergen,naive,2025,2028,54.7
+University of Bern,linear,2025,2026,67.91208791208783
+University of Bern,linear,2025,2027,69.18703296703279
+University of Bern,linear,2025,2028,70.46197802197776
+University of Birmingham,linear,2025,2026,68.15428571428538
+University of Birmingham,linear,2025,2027,69.5235714285709
+University of Birmingham,linear,2025,2028,70.89285714285688
+University of Bologna,linear,2025,2026,73.26333333333423
+University of Bologna,linear,2025,2027,77.45666666666875
+University of Bologna,linear,2025,2028,81.65000000000146
+University of Bonn,linear,2025,2026,69.99355029585831
+University of Bonn,linear,2025,2027,71.58609467455653
+University of Bonn,linear,2025,2028,73.17863905325476
+University of Bordeaux,linear,2025,2026,57.63333333333321
+University of Bordeaux,linear,2025,2027,60.84212121212113
+University of Bordeaux,linear,2025,2028,64.05090909090904
+University of Bradford,linear,2025,2026,51.506666666666206
+University of Bradford,linear,2025,2027,55.39787878787865
+University of Bradford,linear,2025,2028,59.28909090909019
+University of Brasília,naive,2025,2026,27.9
+University of Brasília,naive,2025,2027,27.9
+University of Brasília,naive,2025,2028,27.9
+University of Bremen,linear,2025,2026,59.28666666666777
+University of Bremen,linear,2025,2027,62.53333333333376
+University of Bremen,linear,2025,2028,65.78000000000065
+University of Brescia,linear,2025,2026,57.92666666666628
+University of Brescia,linear,2025,2027,61.64424242424229
+University of Brescia,linear,2025,2028,65.36181818181831
+University of Brighton,linear,2025,2026,45.10333333333256
+University of Brighton,linear,2025,2027,48.10212121212044
+University of Brighton,linear,2025,2028,51.10090909090832
+University of Bristol,linear,2025,2026,68.43999999999983
+University of Bristol,linear,2025,2027,69.04999999999995
+University of Bristol,linear,2025,2028,69.65999999999985
+University of British Columbia,naive,2025,2026,77.8
+University of British Columbia,naive,2025,2027,77.8
+University of British Columbia,naive,2025,2028,77.8
+University of Bucharest,linear,2025,2026,32.57999999999993
+University of Bucharest,linear,2025,2027,35.06363636363676
+University of Bucharest,linear,2025,2028,37.547272727272684
+University of Calabria,linear,2025,2026,37.97638888888895
+University of Calabria,linear,2025,2027,38.19388888888892
+University of Calabria,linear,2025,2028,38.411388888888894
+University of Calgary,linear,2025,2026,67.03000000000065
+University of Calgary,linear,2025,2027,70.49727272727341
+University of Calgary,linear,2025,2028,73.96454545454617
+"University of California, Berkeley",linear,2025,2026,92.44571428571436
+"University of California, Berkeley",linear,2025,2027,92.72892857142864
+"University of California, Berkeley",linear,2025,2028,93.01214285714292
+"University of California, Davis",linear,2025,2026,71.70666666666659
+"University of California, Davis",linear,2025,2027,72.02916666666658
+"University of California, Davis",linear,2025,2028,72.35166666666657
+"University of California, Irvine",linear,2025,2026,65.9571428571428
+"University of California, Irvine",linear,2025,2027,66.56428571428569
+"University of California, Irvine",linear,2025,2028,67.17142857142858
+"University of California, Los Angeles",naive,2025,2026,89.8
+"University of California, Los Angeles",naive,2025,2027,89.8
+"University of California, Los Angeles",naive,2025,2028,89.8
+"University of California, Riverside",linear,2025,2026,51.79238095238097
+"University of California, Riverside",linear,2025,2027,51.88309523809525
+"University of California, Riverside",linear,2025,2028,51.973809523809535
+"University of California, San Diego",naive,2025,2026,79.9
+"University of California, San Diego",naive,2025,2027,79.9
+"University of California, San Diego",naive,2025,2028,79.9
+"University of California, Santa Barbara",naive,2025,2026,72.7
+"University of California, Santa Barbara",naive,2025,2027,72.7
+"University of California, Santa Barbara",naive,2025,2028,72.7
+"University of California, Santa Cruz",linear,2025,2026,55.41714285714286
+"University of California, Santa Cruz",linear,2025,2027,55.4892857142857
+"University of California, Santa Cruz",linear,2025,2028,55.561428571428564
+University of Cambridge,naive,2025,2026,97.4
+University of Cambridge,naive,2025,2027,97.4
+University of Cambridge,naive,2025,2028,97.4
+University of Campinas,linear,2025,2026,57.70333333333383
+University of Campinas,linear,2025,2027,61.3457575757584
+University of Campinas,linear,2025,2028,64.98818181818206
+University of Canberra,linear,2025,2026,63.78666666666595
+University of Canberra,linear,2025,2027,67.43969696969634
+University of Canberra,linear,2025,2028,71.09272727272673
+University of Canterbury,naive,2025,2026,44.599999999999994
+University of Canterbury,naive,2025,2027,44.599999999999994
+University of Canterbury,naive,2025,2028,44.599999999999994
+University of Cape Town,naive,2025,2026,59.7
+University of Cape Town,naive,2025,2027,59.7
+University of Cape Town,naive,2025,2028,59.7
+University of Castilla-La Mancha,linear,2025,2026,38.01000000000022
+University of Castilla-La Mancha,linear,2025,2027,40.74363636363705
+University of Castilla-La Mancha,linear,2025,2028,43.477272727272975
+University of Catania,linear,2024,2025,52.88749999999982
+University of Catania,linear,2024,2026,56.82499999999982
+University of Catania,linear,2024,2027,60.76249999999982
+"University of Chemistry and Technology, Prague",linear,2025,2026,28.93000000000029
+"University of Chemistry and Technology, Prague",linear,2025,2027,30.521818181818617
+"University of Chemistry and Technology, Prague",linear,2025,2028,32.11363636363649
+University of Chile,linear,2025,2026,37.36000000000013
+University of Chile,linear,2025,2027,39.379090909091246
+University of Chile,linear,2025,2028,41.39818181818191
+University of Coimbra,linear,2025,2026,51.21333333333314
+University of Coimbra,linear,2025,2027,54.44393939393922
+University of Coimbra,linear,2025,2028,57.674545454545296
+University of Cologne,linear,2025,2026,61.913333333333185
+University of Cologne,linear,2025,2027,62.793939393939354
+University of Cologne,linear,2025,2028,63.67454545454552
+University of Colombo,linear,2025,2026,37.44722222222208
+University of Colombo,linear,2025,2027,40.28222222222212
+University of Colombo,linear,2025,2028,43.11722222222215
+University of Colorado Boulder,naive,2025,2026,62.2
+University of Colorado Boulder,naive,2025,2027,62.2
+University of Colorado Boulder,naive,2025,2028,62.2
+University of Concepción,linear,2025,2026,26.27916666666715
+University of Concepción,linear,2025,2027,27.325000000000273
+University of Concepción,linear,2025,2028,28.37083333333385
+University of Connecticut,linear,2025,2026,57.64333333333343
+University of Connecticut,linear,2025,2027,60.77303030303028
+University of Connecticut,linear,2025,2028,63.902727272727134
+University of Copenhagen,naive,2025,2026,66.6
+University of Copenhagen,naive,2025,2027,66.6
+University of Copenhagen,naive,2025,2028,66.6
+University of Costa Rica,linear,2025,2026,32.869444444444525
+University of Costa Rica,linear,2025,2027,33.87111111111108
+University of Costa Rica,linear,2025,2028,34.872777777777856
+University of Crete,naive,2025,2026,40.7
+University of Crete,naive,2025,2027,40.7
+University of Crete,naive,2025,2028,40.7
+University of Cyprus,linear,2025,2026,53.73000000000047
+University of Cyprus,linear,2025,2027,56.67909090909143
+University of Cyprus,linear,2025,2028,59.628181818182384
+University of Debrecen,linear,2025,2026,43.11666666666679
+University of Debrecen,linear,2025,2027,46.602424242424604
+University of Debrecen,linear,2025,2028,50.08818181818151
+University of Delaware,naive,2025,2026,50.2
+University of Delaware,naive,2025,2027,50.2
+University of Delaware,naive,2025,2028,50.2
+University of Delhi,naive,2025,2026,36.3
+University of Delhi,naive,2025,2027,36.3
+University of Delhi,naive,2025,2028,36.3
+University of Denver,naive,2025,2026,40.7
+University of Denver,naive,2025,2027,40.7
+University of Denver,naive,2025,2028,40.7
+University of Duisburg-Essen,naive,2025,2026,54.7
+University of Duisburg-Essen,naive,2025,2027,54.7
+University of Duisburg-Essen,naive,2025,2028,54.7
+University of Dundee,naive,2025,2026,52.35
+University of Dundee,naive,2025,2027,52.35
+University of Dundee,naive,2025,2028,52.35
+University of East Anglia,naive,2025,2026,54.7
+University of East Anglia,naive,2025,2027,54.7
+University of East Anglia,naive,2025,2028,54.7
+University of East London,linear,2025,2026,32.501388888888414
+University of East London,linear,2025,2027,33.58055555555529
+University of East London,linear,2025,2028,34.65972222222172
+University of Eastern Finland,naive,2025,2026,44.599999999999994
+University of Eastern Finland,naive,2025,2027,44.599999999999994
+University of Eastern Finland,naive,2025,2028,44.599999999999994
+University of Edinburgh,naive,2025,2026,82.5
+University of Edinburgh,naive,2025,2027,82.5
+University of Edinburgh,naive,2025,2028,82.5
+University of Electronic Science and Technology of China,linear,2025,2026,61.28333333333285
+University of Electronic Science and Technology of China,linear,2025,2027,66.79374999999891
+University of Electronic Science and Technology of China,linear,2025,2028,72.30416666666497
+University of Erlangen-Nuremberg,naive,2025,2026,57.2
+University of Erlangen-Nuremberg,naive,2025,2027,57.2
+University of Erlangen-Nuremberg,naive,2025,2028,57.2
+University of Essex,naive,2025,2026,50.2
+University of Essex,naive,2025,2027,50.2
+University of Essex,naive,2025,2028,50.2
+University of Exeter,naive,2025,2026,60.4
+University of Exeter,naive,2025,2027,60.4
+University of Exeter,naive,2025,2028,60.4
+University of Ferrara,linear,2025,2026,53.38000000000011
+University of Ferrara,linear,2025,2027,56.540909090908826
+University of Ferrara,linear,2025,2028,59.70181818181845
+University of Florence,linear,2025,2026,58.13000000000102
+University of Florence,linear,2025,2027,61.73363636363683
+University of Florence,linear,2025,2028,65.33727272727356
+University of Florida,linear,2025,2026,62.572527472527554
+University of Florida,linear,2025,2027,63.40791208791211
+University of Florida,linear,2025,2028,64.24329670329689
+University of Freiburg,naive,2025,2026,63.8
+University of Freiburg,naive,2025,2027,63.8
+University of Freiburg,naive,2025,2028,63.8
+University of Fribourg,naive,2025,2026,47.6
+University of Fribourg,naive,2025,2027,47.6
+University of Fribourg,naive,2025,2028,47.6
+University of Galway,naive,2025,2026,50.2
+University of Galway,naive,2025,2027,50.2
+University of Galway,naive,2025,2028,50.2
+University of Geneva,naive,2025,2026,60.6
+University of Geneva,naive,2025,2027,60.6
+University of Geneva,naive,2025,2028,60.6
+University of Genoa,linear,2025,2026,55.94999999999982
+University of Genoa,linear,2025,2027,59.308181818181765
+University of Genoa,linear,2025,2028,62.66636363636371
+University of Georgia (USA),linear,2025,2026,55.446666666666715
+University of Georgia (USA),linear,2025,2027,58.49878787878788
+University of Georgia (USA),linear,2025,2028,61.550909090909045
+University of Ghana,linear,2025,2026,35.0600000000004
+University of Ghana,linear,2025,2027,37.40454545454577
+University of Ghana,linear,2025,2028,39.74909090909114
+University of Glasgow,linear,2025,2026,69.56571428571442
+University of Glasgow,linear,2025,2027,70.7039285714286
+University of Glasgow,linear,2025,2028,71.84214285714324
+University of Gothenburg,naive,2025,2026,57.2
+University of Gothenburg,naive,2025,2027,57.2
+University of Gothenburg,naive,2025,2028,57.2
+University of Granada,linear,2025,2026,47.92000000000007
+University of Granada,linear,2025,2027,50.934545454545514
+University of Granada,linear,2025,2028,53.949090909090955
+University of Graz,linear,2025,2026,48.85333333333256
+University of Graz,linear,2025,2027,51.59484848484772
+University of Graz,linear,2025,2028,54.336363636362876
+University of Greenwich,linear,2025,2026,51.94333333333361
+University of Greenwich,linear,2025,2027,55.794848484849354
+University of Greenwich,linear,2025,2028,59.646363636364185
+University of Greifswald,linear,2025,2026,57.566666666666606
+University of Greifswald,linear,2025,2027,61.098787878788244
+University of Greifswald,linear,2025,2028,64.63090909090897
+University of Groningen,linear,2025,2026,72.47619047619037
+University of Groningen,linear,2025,2027,73.89404761904734
+University of Groningen,linear,2025,2028,75.31190476190477
+University of Guadalajara,naive,2025,2026,17.8
+University of Guadalajara,naive,2025,2027,17.8
+University of Guadalajara,naive,2025,2028,17.8
+University of Guelph,linear,2025,2026,54.06727941176541
+University of Guelph,linear,2025,2027,57.52058823529478
+University of Guelph,linear,2025,2028,60.97389705882415
+University of Göttingen,linear,2025,2026,61.238095238095234
+University of Göttingen,linear,2025,2027,61.2545238095238
+University of Göttingen,linear,2025,2028,61.27095238095237
+University of Haifa,linear,2025,2026,48.2533333333331
+University of Haifa,linear,2025,2027,51.559393939393885
+University of Haifa,linear,2025,2028,54.86545454545467
+University of Hamburg,linear,2025,2026,65.21527777777828
+University of Hamburg,linear,2025,2027,66.68611111111159
+University of Hamburg,linear,2025,2028,68.15694444444489
+University of Hawai’i at Mānoa,naive,2025,2026,54.7
+University of Hawai’i at Mānoa,naive,2025,2027,54.7
+University of Hawai’i at Mānoa,naive,2025,2028,54.7
+University of Helsinki,naive,2025,2026,65.6
+University of Helsinki,naive,2025,2027,65.6
+University of Helsinki,naive,2025,2028,65.6
+University of Hertfordshire,linear,2025,2026,45.766666666666424
+University of Hertfordshire,linear,2025,2027,48.56878787878759
+University of Hertfordshire,linear,2025,2028,51.370909090908754
+University of Hohenheim,naive,2025,2026,52.35
+University of Hohenheim,naive,2025,2027,52.35
+University of Hohenheim,naive,2025,2028,52.35
+University of Hong Kong,naive,2025,2026,79.6
+University of Hong Kong,naive,2025,2027,79.6
+University of Hong Kong,naive,2025,2028,79.6
+University of Houston,linear,2025,2026,49.970000000000255
+University of Houston,linear,2025,2027,52.340000000000146
+University of Houston,linear,2025,2028,54.710000000000946
+University of Huddersfield,linear,2025,2026,50.863333333332776
+University of Huddersfield,linear,2025,2027,54.59212121212113
+University of Huddersfield,linear,2025,2028,58.32090909090857
+University of Hull,linear,2025,2026,53.64000000000033
+University of Hull,linear,2025,2027,57.061818181818126
+University of Hull,linear,2025,2028,60.48363636363683
+University of Ibadan,linear,2025,2026,49.70999999999913
+University of Ibadan,linear,2025,2027,53.41090909090872
+University of Ibadan,linear,2025,2028,57.1118181818174
+University of Iceland,naive,2025,2026,44.599999999999994
+University of Iceland,naive,2025,2027,44.599999999999994
+University of Iceland,naive,2025,2028,44.599999999999994
+University of Illinois Chicago,linear,2025,2026,53.45058124174352
+University of Illinois Chicago,linear,2025,2027,54.453408190224536
+University of Illinois Chicago,linear,2025,2028,55.456235138705324
+University of Illinois at Urbana-Champaign,naive,2025,2026,76.5
+University of Illinois at Urbana-Champaign,naive,2025,2027,76.5
+University of Illinois at Urbana-Champaign,naive,2025,2028,76.5
+University of Indonesia,linear,2025,2026,42.01999999999953
+University of Indonesia,linear,2025,2027,45.139090909090555
+University of Indonesia,linear,2025,2028,48.25818181818158
+University of Innsbruck,linear,2025,2026,49.33232044198894
+University of Innsbruck,linear,2025,2027,50.59668508287268
+University of Innsbruck,linear,2025,2028,51.86104972375688
+University of Ioannina,naive,2025,2026,27.9
+University of Ioannina,naive,2025,2027,27.9
+University of Ioannina,naive,2025,2028,27.9
+University of Iowa,naive,2025,2026,54.7
+University of Iowa,naive,2025,2027,54.7
+University of Iowa,naive,2025,2028,54.7
+University of Jaén,linear,2025,2026,37.07222222222208
+University of Jaén,linear,2025,2027,38.77888888888856
+University of Jaén,linear,2025,2028,40.48555555555549
+University of Johannesburg,linear,2025,2026,49.348611111110586
+University of Johannesburg,linear,2025,2027,52.32611111111055
+University of Johannesburg,linear,2025,2028,55.30361111111051
+University of Jyväskylä,linear,2025,2026,56.233333333333576
+University of Jyväskylä,linear,2025,2027,59.66030303030311
+University of Jyväskylä,linear,2025,2028,63.08727272727265
+University of Kaiserslautern,linear,2025,2026,45.00333333333401
+University of Kaiserslautern,linear,2025,2027,47.13939393939381
+University of Kaiserslautern,linear,2025,2028,49.27545454545452
+University of Kansas,linear,2025,2026,50.016666666666424
+University of Kansas,linear,2025,2027,51.25666666666666
+University of Kansas,linear,2025,2028,52.49666666666644
+University of Kent,linear,2025,2026,57.6866666666665
+University of Kent,linear,2025,2027,60.77333333333354
+University of Kent,linear,2025,2028,63.85999999999967
+University of Kiel,naive,2025,2026,52.35
+University of Kiel,naive,2025,2027,52.35
+University of Kiel,naive,2025,2028,52.35
+University of Konstanz,naive,2025,2026,54.7
+University of Konstanz,naive,2025,2027,54.7
+University of Konstanz,naive,2025,2028,54.7
+University of KwaZulu-Natal,naive,2025,2026,44.599999999999994
+University of KwaZulu-Natal,naive,2025,2027,44.599999999999994
+University of KwaZulu-Natal,naive,2025,2028,44.599999999999994
+University of La Frontera,naive,2025,2026,17.8
+University of La Frontera,naive,2025,2027,17.8
+University of La Frontera,naive,2025,2028,17.8
+University of La Laguna,naive,2025,2026,32.55
+University of La Laguna,naive,2025,2027,32.55
+University of La Laguna,naive,2025,2028,32.55
+University of Lancashire,linear,2025,2026,38.34333333333416
+University of Lancashire,linear,2025,2027,40.81121212121252
+University of Lancashire,linear,2025,2028,43.27909090909179
+University of Latvia,naive,2025,2026,32.55
+University of Latvia,naive,2025,2027,32.55
+University of Latvia,naive,2025,2028,32.55
+University of Lausanne,linear,2025,2026,60.787619047619046
+University of Lausanne,linear,2025,2027,61.496904761904716
+University of Lausanne,linear,2025,2028,62.206190476190386
+University of Leeds,linear,2025,2026,64.10285714285737
+University of Leeds,linear,2025,2027,65.12321428571477
+University of Leeds,linear,2025,2028,66.1435714285717
+University of Leicester,naive,2025,2026,59.2
+University of Leicester,naive,2025,2027,59.2
+University of Leicester,naive,2025,2028,59.2
+University of Lille,linear,2025,2026,40.67916666666679
+University of Lille,linear,2025,2027,41.325000000000045
+University of Lille,linear,2025,2028,41.9708333333333
+University of Limerick,linear,2025,2026,51.67000000000007
+University of Limerick,linear,2025,2027,54.94636363636346
+University of Limerick,linear,2025,2028,58.22272727272684
+University of Lincoln,linear,2025,2026,52.683333333333394
+University of Lincoln,linear,2025,2027,56.51939393939392
+University of Lincoln,linear,2025,2028,60.35545454545445
+University of Lisbon,linear,2025,2026,54.183333333333394
+University of Lisbon,linear,2025,2027,57.615757575757925
+University of Lisbon,linear,2025,2028,61.04818181818155
+University of Liverpool,linear,2025,2026,61.400952380952276
+University of Liverpool,linear,2025,2027,62.41523809523778
+University of Liverpool,linear,2025,2028,63.429523809523744
+University of Liège,linear,2025,2026,60.960000000000036
+University of Liège,linear,2025,2027,64.42818181818166
+University of Liège,linear,2025,2028,67.89636363636419
+University of Ljubljana,linear,2025,2026,41.51000000000022
+University of Ljubljana,linear,2025,2027,44.13636363636397
+University of Ljubljana,linear,2025,2028,46.762727272726806
+University of Lodz,naive,2025,2026,17.8
+University of Lodz,naive,2025,2027,17.8
+University of Lodz,naive,2025,2028,17.8
+University of Luxembourg,linear,2025,2026,55.88999999999987
+University of Luxembourg,linear,2025,2027,56.4636363636364
+University of Luxembourg,linear,2025,2028,57.03727272727269
+University of Macau,linear,2025,2026,69.36333333333278
+University of Macau,linear,2025,2027,73.99212121212076
+University of Macau,linear,2025,2028,78.62090909090875
+University of Manchester,linear,2025,2026,75.74761904761908
+University of Manchester,linear,2025,2027,76.61940476190489
+University of Manchester,linear,2025,2028,77.49119047619047
+University of Manitoba,linear,2025,2026,59.04999999999927
+University of Manitoba,linear,2025,2027,62.6872727272721
+University of Manitoba,linear,2025,2028,66.32454545454493
+University of Mannheim,naive,2025,2026,58.7
+University of Mannheim,naive,2025,2027,58.7
+University of Mannheim,naive,2025,2028,58.7
+University of Marburg,naive,2025,2026,47.6
+University of Marburg,naive,2025,2027,47.6
+University of Marburg,naive,2025,2028,47.6
+University of Maribor,naive,2025,2026,27.9
+University of Maribor,naive,2025,2027,27.9
+University of Maribor,naive,2025,2028,27.9
+"University of Maryland, Baltimore County",linear,2025,2026,45.54333333333307
+"University of Maryland, Baltimore County",linear,2025,2027,47.925757575756506
+"University of Maryland, Baltimore County",linear,2025,2028,50.308181818180856
+"University of Maryland, College Park",naive,2025,2026,65.4
+"University of Maryland, College Park",naive,2025,2027,65.4
+"University of Maryland, College Park",naive,2025,2028,65.4
+University of Massachusetts,linear,2025,2026,56.60047619047619
+University of Massachusetts,linear,2025,2027,56.58636904761905
+University of Massachusetts,linear,2025,2028,56.57226190476191
+University of Melbourne,naive,2025,2026,78.4
+University of Melbourne,naive,2025,2027,78.4
+University of Melbourne,naive,2025,2028,78.4
+University of Miami,linear,2025,2026,57.730769230769056
+University of Miami,linear,2025,2027,58.58582417582397
+University of Miami,linear,2025,2028,59.44087912087912
+University of Michigan-Ann Arbor,naive,2025,2026,87.7
+University of Michigan-Ann Arbor,naive,2025,2027,87.7
+University of Michigan-Ann Arbor,naive,2025,2028,87.7
+University of Milan,linear,2025,2026,60.26000000000022
+University of Milan,linear,2025,2027,63.60909090909172
+University of Milan,linear,2025,2028,66.95818181818231
+University of Milan-Bicocca,linear,2025,2026,59.86666666666679
+University of Milan-Bicocca,linear,2025,2027,63.54878787878715
+University of Milan-Bicocca,linear,2025,2028,67.23090909090843
+University of Minho,linear,2025,2026,43.86999999999989
+University of Minho,linear,2025,2027,46.63454545454533
+University of Minho,linear,2025,2028,49.39909090909077
+University of Minnesota,naive,2025,2026,67.8
+University of Minnesota,naive,2025,2027,67.8
+University of Minnesota,naive,2025,2028,67.8
+University of Modena and Reggio Emilia,linear,2025,2026,54.75
+University of Modena and Reggio Emilia,linear,2025,2027,57.881818181817835
+University of Modena and Reggio Emilia,linear,2025,2028,61.01363636363567
+University of Monastir,linear,2025,2026,27.663888888889232
+University of Monastir,linear,2025,2027,29.522222222222354
+University of Monastir,linear,2025,2028,31.38055555555593
+University of Murcia,linear,2025,2026,36.006666666666206
+University of Murcia,linear,2025,2027,38.306969696968736
+University of Murcia,linear,2025,2028,40.607272727272175
+University of Münster,linear,2025,2026,57.57666666666671
+University of Münster,linear,2025,2027,57.98424242424255
+University of Münster,linear,2025,2028,58.39181818181828
+University of Nairobi,linear,2025,2026,36.363333333333685
+University of Nairobi,linear,2025,2027,38.901212121211756
+University of Nairobi,linear,2025,2028,41.43909090909074
+University of Naples Federico II,linear,2025,2026,58.78333333333376
+University of Naples Federico II,linear,2025,2027,62.35575757575771
+University of Naples Federico II,linear,2025,2028,65.92818181818257
+University of Navarra,linear,2025,2026,63.683333333332484
+University of Navarra,linear,2025,2027,67.31121212121161
+University of Navarra,linear,2025,2028,70.93909090908983
+University of Nebraska Medical Center,linear,2025,2026,52.900000000000546
+University of Nebraska Medical Center,linear,2025,2027,56.0990909090915
+University of Nebraska Medical Center,linear,2025,2028,59.29818181818246
+University of Nebraska-Lincoln,linear,2025,2026,54.60333333333256
+University of Nebraska-Lincoln,linear,2025,2027,57.4130303030297
+University of Nebraska-Lincoln,linear,2025,2028,60.22272727272684
+University of Neuchâtel,linear,2025,2026,52.25333333333401
+University of Neuchâtel,linear,2025,2027,55.32121212121274
+University of Neuchâtel,linear,2025,2028,58.389090909091465
+University of Newcastle,linear,2025,2026,64.92000000000007
+University of Newcastle,linear,2025,2027,68.5600000000004
+University of Newcastle,linear,2025,2028,72.19999999999982
+University of North Carolina at Chapel Hill,naive,2025,2026,71.6
+University of North Carolina at Chapel Hill,naive,2025,2027,71.6
+University of North Carolina at Chapel Hill,naive,2025,2028,71.6
+University of Notre Dame,naive,2025,2026,58.9
+University of Notre Dame,naive,2025,2027,58.9
+University of Notre Dame,naive,2025,2028,58.9
+University of Nottingham,linear,2025,2026,63.61428571428587
+University of Nottingham,linear,2025,2027,64.66607142857129
+University of Nottingham,linear,2025,2028,65.71785714285716
+University of Oslo,linear,2025,2026,67.60955011838996
+University of Oslo,linear,2025,2027,69.21850828729248
+University of Oslo,linear,2025,2028,70.82746645619545
+University of Otago,naive,2025,2026,50.2
+University of Otago,naive,2025,2027,50.2
+University of Otago,naive,2025,2028,50.2
+University of Ottawa,naive,2025,2026,59.2
+University of Ottawa,naive,2025,2027,59.2
+University of Ottawa,naive,2025,2028,59.2
+University of Oulu,linear,2025,2026,62.53333333333376
+University of Oulu,linear,2025,2027,65.82393939394024
+University of Oulu,linear,2025,2028,69.1145454545458
+University of Oviedo,naive,2025,2026,32.55
+University of Oviedo,naive,2025,2027,32.55
+University of Oviedo,naive,2025,2028,32.55
+University of Oxford,naive,2025,2026,98.5
+University of Oxford,naive,2025,2027,98.5
+University of Oxford,naive,2025,2028,98.5
+University of Padua,linear,2025,2026,68.14333333333343
+University of Padua,linear,2025,2027,72.2621212121212
+University of Padua,linear,2025,2028,76.38090909090897
+University of Palermo,linear,2025,2026,45.2533333333331
+University of Palermo,linear,2025,2027,47.844848484848626
+University of Palermo,linear,2025,2028,50.43636363636324
+University of Pardubice,naive,2025,2026,17.8
+University of Pardubice,naive,2025,2027,17.8
+University of Pardubice,naive,2025,2028,17.8
+University of Parma,linear,2025,2026,46.210000000000036
+University of Parma,linear,2025,2027,48.804545454545405
+University of Parma,linear,2025,2028,51.39909090909077
+University of Patras,linear,2025,2026,36.96666666666715
+University of Patras,linear,2025,2027,39.35424242424324
+University of Patras,linear,2025,2028,41.74181818181842
+University of Pavia,linear,2025,2026,60.54666666666708
+University of Pavia,linear,2025,2027,64.20696969697019
+University of Pavia,linear,2025,2028,67.8672727272733
+University of Pennsylvania,naive,2025,2026,90.9
+University of Pennsylvania,naive,2025,2027,90.9
+University of Pennsylvania,naive,2025,2028,90.9
+University of Pisa,linear,2025,2026,56.9333333333343
+University of Pisa,linear,2025,2027,60.19848484848535
+University of Pisa,linear,2025,2028,63.463636363637306
+University of Pittsburgh-Pittsburgh campus,naive,2025,2026,62.3
+University of Pittsburgh-Pittsburgh campus,naive,2025,2027,62.3
+University of Pittsburgh-Pittsburgh campus,naive,2025,2028,62.3
+University of Plymouth,linear,2025,2026,53.97333333333245
+University of Plymouth,linear,2025,2027,57.01757575757529
+University of Plymouth,linear,2025,2028,60.061818181817216
+University of Porto,linear,2025,2026,56.26000000000113
+University of Porto,linear,2025,2027,59.759090909091356
+University of Porto,linear,2025,2028,63.25818181818249
+University of Portsmouth,linear,2025,2026,55.17999999999938
+University of Portsmouth,linear,2025,2027,58.60272727272695
+University of Portsmouth,linear,2025,2028,62.02545454545452
+University of Pretoria,linear,2025,2026,48.03666666666686
+University of Pretoria,linear,2025,2027,51.408787878787734
+University of Pretoria,linear,2025,2028,54.78090909090952
+University of Pécs,naive,2025,2026,32.55
+University of Pécs,naive,2025,2027,32.55
+University of Pécs,naive,2025,2028,32.55
+University of Reading,linear,2025,2026,57.194867193108394
+University of Reading,linear,2025,2027,57.99628499641062
+University of Reading,linear,2025,2028,58.79770279971285
+University of Regina,linear,2025,2026,42.923333333332266
+University of Regina,linear,2025,2027,45.49484848484826
+University of Regina,linear,2025,2028,48.06636363636335
+University of Rennes 1,linear,2025,2026,43.39647058823448
+University of Rennes 1,linear,2025,2027,46.13941176470507
+University of Rennes 1,linear,2025,2028,48.88235294117567
+University of Rochester,linear,2025,2026,61.18461538461543
+University of Rochester,linear,2025,2027,61.76923076923072
+University of Rochester,linear,2025,2028,62.353846153846234
+University of Roehampton,linear,2025,2026,37.07222222222208
+University of Roehampton,linear,2025,2027,38.77888888888856
+University of Roehampton,linear,2025,2028,40.48555555555549
+University of Rome II – Tor Vergata,linear,2025,2026,60.803333333333285
+University of Rome II – Tor Vergata,linear,2025,2027,64.80575757575753
+University of Rome II – Tor Vergata,linear,2025,2028,68.80818181818177
+University of Rome III,naive,2025,2026,36.3
+University of Rome III,naive,2025,2027,36.3
+University of Rome III,naive,2025,2028,36.3
+University of Salamanca,linear,2025,2026,41.51000000000022
+University of Salamanca,linear,2025,2027,44.13636363636397
+University of Salamanca,linear,2025,2028,46.762727272726806
+University of Salento,linear,2025,2026,41.74666666666644
+University of Salento,linear,2025,2027,43.787878787878526
+University of Salento,linear,2025,2028,45.82909090909061
+University of Salerno,naive,2025,2026,44.599999999999994
+University of Salerno,naive,2025,2027,44.599999999999994
+University of Salerno,naive,2025,2028,44.599999999999994
+University of Salford,linear,2025,2026,41.07333333333281
+University of Salford,linear,2025,2027,43.739393939394176
+University of Salford,linear,2025,2028,46.40545454545463
+University of Santiago de Compostela,linear,2025,2026,46.0699999999988
+University of Santiago de Compostela,linear,2025,2027,49.27545454545361
+University of Santiago de Compostela,linear,2025,2028,52.480909090908426
+"University of Santiago, Chile (USACH)",naive,2025,2026,17.8
+"University of Santiago, Chile (USACH)",naive,2025,2027,17.8
+"University of Santiago, Chile (USACH)",naive,2025,2028,17.8
+University of Saskatchewan,linear,2025,2026,56.57999999999902
+University of Saskatchewan,linear,2025,2027,60.05999999999949
+University of Saskatchewan,linear,2025,2028,63.539999999999054
+University of Science and Technology of China,linear,2025,2026,73.20917431192629
+University of Science and Technology of China,linear,2025,2027,75.42477064220202
+University of Science and Technology of China,linear,2025,2028,77.64036697247684
+University of Seoul,linear,2025,2026,37.27333333333263
+University of Seoul,linear,2025,2027,40.01484848484779
+University of Seoul,linear,2025,2028,42.75636363636295
+University of Seville,linear,2025,2026,38.83333333333303
+University of Seville,linear,2025,2027,41.266666666666424
+University of Seville,linear,2025,2028,43.69999999999982
+University of Sheffield,linear,2025,2026,66.32285714285717
+University of Sheffield,linear,2025,2027,67.2682142857143
+University of Sheffield,linear,2025,2028,68.21357142857141
+University of Siegen,linear,2025,2026,39.23888888888894
+University of Siegen,linear,2025,2027,39.68888888888887
+University of Siegen,linear,2025,2028,40.138888888888914
+University of Siena,linear,2025,2026,54.95666666666784
+University of Siena,linear,2025,2027,58.31696969697077
+University of Siena,linear,2025,2028,61.6772727272737
+University of Silesia in Katowice,naive,2025,2026,17.8
+University of Silesia in Katowice,naive,2025,2027,17.8
+University of Silesia in Katowice,naive,2025,2028,17.8
+University of South Africa,linear,2025,2026,34.85999999999967
+University of South Africa,linear,2025,2027,37.64818181818191
+University of South Africa,linear,2025,2028,40.43636363636324
+University of South Australia,linear,2025,2026,60.613333333333685
+University of South Australia,linear,2025,2027,63.62393939394042
+University of South Australia,linear,2025,2028,66.63454545454624
+University of South Carolina-Columbia,linear,2025,2026,56.4591935483877
+University of South Carolina-Columbia,linear,2025,2027,60.10120967741932
+University of South Carolina-Columbia,linear,2025,2028,63.743225806451846
+University of South Dakota,naive,2025,2026,32.55
+University of South Dakota,naive,2025,2027,32.55
+University of South Dakota,naive,2025,2028,32.55
+University of Southampton,linear,2025,2026,65.73809523809541
+University of Southampton,linear,2025,2027,66.71452380952405
+University of Southampton,linear,2025,2028,67.69095238095247
+University of Southern California,naive,2025,2026,71.0
+University of Southern California,naive,2025,2027,71.0
+University of Southern California,naive,2025,2028,71.0
+University of Southern Denmark,linear,2025,2026,63.90666666666766
+University of Southern Denmark,linear,2025,2027,67.42606060606158
+University of Southern Denmark,linear,2025,2028,70.9454545454555
+University of Southern Queensland,linear,2025,2026,60.39333333333343
+University of Southern Queensland,linear,2025,2027,65.2075757575767
+University of Southern Queensland,linear,2025,2028,70.02181818181816
+University of St Andrews,linear,2025,2026,55.804285714285705
+University of St Andrews,linear,2025,2027,55.819821428571416
+University of St Andrews,linear,2025,2028,55.835357142857134
+University of St Gallen,linear,2025,2026,60.02000000000044
+University of St Gallen,linear,2025,2027,63.85636363636331
+University of St Gallen,linear,2025,2028,67.6927272727271
+University of Stirling,naive,2025,2026,47.6
+University of Stirling,naive,2025,2027,47.6
+University of Stirling,naive,2025,2028,47.6
+University of Strathclyde,linear,2025,2026,58.60666666666748
+University of Strathclyde,linear,2025,2027,62.31242424242464
+University of Strathclyde,linear,2025,2028,66.01818181818271
+University of Stuttgart,linear,2025,2026,61.59333333333234
+University of Stuttgart,linear,2025,2027,64.73303030302941
+University of Stuttgart,linear,2025,2028,67.87272727272648
+University of Surrey,linear,2025,2026,66.23000000000047
+University of Surrey,linear,2025,2027,70.02272727272702
+University of Surrey,linear,2025,2028,73.81545454545449
+University of Sussex,naive,2025,2026,57.2
+University of Sussex,naive,2025,2027,57.2
+University of Sussex,naive,2025,2028,57.2
+University of Szeged,linear,2025,2026,36.84333333333325
+University of Szeged,linear,2025,2027,38.974848484848735
+University of Szeged,linear,2025,2028,41.10636363636331
+University of São Paulo,linear,2025,2026,57.78475395430587
+University of São Paulo,linear,2025,2027,59.46362038664347
+University of São Paulo,linear,2025,2028,61.142486818980615
+University of Talca,linear,2025,2026,21.870833333333167
+University of Talca,linear,2025,2027,22.47833333333324
+University of Talca,linear,2025,2028,23.085833333333085
+University of Tartu,linear,2025,2026,63.289999999999964
+University of Tartu,linear,2025,2027,66.94000000000051
+University of Tartu,linear,2025,2028,70.59000000000015
+University of Tasmania,linear,2025,2026,62.66666666666606
+University of Tasmania,linear,2025,2027,66.373333333333
+University of Tasmania,linear,2025,2028,70.07999999999993
+University of Technology Sydney,linear,2025,2026,74.21666666666533
+University of Technology Sydney,linear,2025,2027,78.55060606060397
+University of Technology Sydney,linear,2025,2028,82.88454545454442
+University of Tehran,linear,2025,2026,52.82333333333281
+University of Tehran,linear,2025,2027,56.79939393939367
+University of Tehran,linear,2025,2028,60.77545454545361
+University of Texas at Arlington,linear,2025,2026,46.52000000000044
+University of Texas at Arlington,linear,2025,2027,49.35636363636331
+University of Texas at Arlington,linear,2025,2028,52.1927272727271
+University of Texas at Austin,naive,2025,2026,75.9
+University of Texas at Austin,naive,2025,2027,75.9
+University of Texas at Austin,naive,2025,2028,75.9
+University of Texas at Dallas,naive,2025,2026,47.6
+University of Texas at Dallas,naive,2025,2027,47.6
+University of Texas at Dallas,naive,2025,2028,47.6
+University of Texas at El Paso,linear,2025,2026,41.07333333333281
+University of Texas at El Paso,linear,2025,2027,43.739393939394176
+University of Texas at El Paso,linear,2025,2028,46.40545454545463
+University of Toledo,linear,2025,2026,46.52000000000044
+University of Toledo,linear,2025,2027,49.255454545454995
+University of Toledo,linear,2025,2028,51.990909090909554
+University of Toronto,naive,2025,2026,88.3
+University of Toronto,naive,2025,2027,88.3
+University of Toronto,naive,2025,2028,88.3
+University of Toulouse,linear,2025,2026,45.35972222222233
+University of Toulouse,linear,2025,2027,45.86722222222227
+University of Toulouse,linear,2025,2028,46.3747222222222
+University of Toyama,linear,2025,2026,26.809722222222263
+University of Toyama,linear,2025,2027,28.360555555555493
+University of Toyama,linear,2025,2028,29.911388888888723
+University of Trento,linear,2025,2026,48.129999999999995
+University of Trento,linear,2025,2027,48.23727272727274
+University of Trento,linear,2025,2028,48.344545454545454
+University of Trieste,linear,2025,2026,50.923333333333176
+University of Trieste,linear,2025,2027,53.51848484848506
+University of Trieste,linear,2025,2028,56.11363636363603
+University of Tsukuba,linear,2025,2026,56.57999999999902
+University of Tsukuba,linear,2025,2027,60.05999999999949
+University of Tsukuba,linear,2025,2028,63.539999999999054
+University of Tunis El Manar,linear,2025,2026,36.369444444444525
+University of Tunis El Manar,linear,2025,2027,39.39111111111106
+University of Tunis El Manar,linear,2025,2028,42.41277777777759
+University of Turin,linear,2025,2026,55.409999999999854
+University of Turin,linear,2025,2027,58.596363636364
+University of Turin,linear,2025,2028,61.78272727272724
+University of Turku,linear,2025,2026,60.043333333333976
+University of Turku,linear,2025,2027,63.51848484848506
+University of Turku,linear,2025,2028,66.99363636363614
+University of Twente,linear,2025,2026,58.358824306473025
+University of Twente,linear,2025,2027,59.206287978863884
+University of Twente,linear,2025,2028,60.05375165125497
+University of Tübingen,naive,2025,2026,66.2
+University of Tübingen,naive,2025,2027,66.2
+University of Tübingen,naive,2025,2028,66.2
+University of Ulsan,linear,2025,2026,49.48000000000047
+University of Ulsan,linear,2025,2027,52.60636363636422
+University of Ulsan,linear,2025,2028,55.73272727272706
+University of Urbino Carlo Bo,linear,2025,2026,38.9666666666667
+University of Urbino Carlo Bo,linear,2025,2027,40.322424242424404
+University of Urbino Carlo Bo,linear,2025,2028,41.67818181818211
+University of Utah,linear,2025,2026,52.582857142857165
+University of Utah,linear,2025,2027,52.660714285714306
+University of Utah,linear,2025,2028,52.73857142857145
+University of Valencia,naive,2025,2026,44.599999999999994
+University of Valencia,naive,2025,2027,44.599999999999994
+University of Valencia,naive,2025,2028,44.599999999999994
+University of Victoria,linear,2025,2026,46.86184782608689
+University of Victoria,linear,2025,2027,47.33190217391302
+University of Victoria,linear,2025,2028,47.80195652173916
+University of Vienna,linear,2025,2026,65.59238095238106
+University of Vienna,linear,2025,2027,66.93559523809517
+University of Vienna,linear,2025,2028,68.27880952380929
+University of Vigo,linear,2025,2026,38.83333333333303
+University of Vigo,linear,2025,2027,41.266666666666424
+University of Vigo,linear,2025,2028,43.69999999999982
+University of Virginia (Main campus),naive,2025,2026,60.9
+University of Virginia (Main campus),naive,2025,2027,60.9
+University of Virginia (Main campus),naive,2025,2028,60.9
+University of Waikato,linear,2025,2026,54.98666666666668
+University of Waikato,linear,2025,2027,58.23242424242471
+University of Waikato,linear,2025,2028,61.47818181818184
+University of Warsaw,linear,2025,2026,44.50000000000091
+University of Warsaw,linear,2025,2027,47.15818181818213
+University of Warsaw,linear,2025,2028,49.81636363636426
+University of Warwick,naive,2025,2026,65.7
+University of Warwick,naive,2025,2027,65.7
+University of Warwick,naive,2025,2028,65.7
+University of Washington,naive,2025,2026,83.8
+University of Washington,naive,2025,2027,83.8
+University of Washington,naive,2025,2028,83.8
+University of Waterloo,linear,2025,2026,59.42666666666673
+University of Waterloo,linear,2025,2027,60.48242424242426
+University of Waterloo,linear,2025,2028,61.53818181818178
+University of West Bohemia,linear,2025,2026,30.729999999999563
+University of West Bohemia,linear,2025,2027,33.04818181818155
+University of West Bohemia,linear,2025,2028,35.36636363636353
+University of Westminster,linear,2025,2026,40.23000000000047
+University of Westminster,linear,2025,2027,42.71090909090981
+University of Westminster,linear,2025,2028,45.191818181818235
+University of Windsor,linear,2025,2026,46.715277777777374
+University of Windsor,linear,2025,2027,49.31277777777814
+University of Windsor,linear,2025,2028,51.91027777777799
+University of Wisconsin-Madison,naive,2025,2026,74.8
+University of Wisconsin-Madison,naive,2025,2027,74.8
+University of Wisconsin-Madison,naive,2025,2028,74.8
+University of Wollongong,linear,2025,2026,67.8133333333335
+University of Wollongong,linear,2025,2027,71.66212121212084
+University of Wollongong,linear,2025,2028,75.51090909090908
+University of Würzburg,naive,2025,2026,60.9
+University of Würzburg,naive,2025,2027,60.9
+University of Würzburg,naive,2025,2028,60.9
+University of Yamanashi,linear,2025,2026,19.726388888888877
+University of Yamanashi,linear,2025,2027,19.690555555555548
+University of Yamanashi,linear,2025,2028,19.65472222222222
+University of York,naive,2025,2026,62.1
+University of York,naive,2025,2027,62.1
+University of York,naive,2025,2028,62.1
+University of Zagreb,linear,2025,2026,29.761111111111404
+University of Zagreb,linear,2025,2027,31.42777777777792
+University of Zagreb,linear,2025,2028,33.094444444444434
+University of Zaragoza,linear,2025,2026,36.40000000000009
+University of Zaragoza,linear,2025,2027,38.33181818181811
+University of Zaragoza,linear,2025,2028,40.26363636363658
+University of Zurich,linear,2024,2025,67.643956043956
+University of Zurich,linear,2024,2026,68.56219780219772
+University of Zurich,linear,2024,2027,69.48043956043944
+"University of the Andes, Colombia",naive,2025,2026,32.55
+"University of the Andes, Colombia",naive,2025,2027,32.55
+"University of the Andes, Colombia",naive,2025,2028,32.55
+"University of the Andes, Venezuela",naive,2025,2026,17.8
+"University of the Andes, Venezuela",naive,2025,2027,17.8
+"University of the Andes, Venezuela",naive,2025,2028,17.8
+University of the Basque Country,linear,2025,2026,43.86999999999989
+University of the Basque Country,linear,2025,2027,46.63454545454533
+University of the Basque Country,linear,2025,2028,49.39909090909077
+University of the Philippines,linear,2025,2026,34.45138888888869
+University of the Philippines,linear,2025,2027,35.18388888888876
+University of the Philippines,linear,2025,2028,35.916388888888605
+University of the Sunshine Coast,linear,2025,2026,42.48888888888905
+University of the Sunshine Coast,linear,2025,2027,44.022222222222354
+University of the Sunshine Coast,linear,2025,2028,45.55555555555566
+University of the West of Scotland,naive,2025,2026,40.7
+University of the West of Scotland,naive,2025,2027,40.7
+University of the West of Scotland,naive,2025,2028,40.7
+University of the Western Cape,linear,2025,2026,43.465277777777374
+University of the Western Cape,linear,2025,2027,45.59277777777788
+University of the Western Cape,linear,2025,2028,47.72027777777748
+University of the Witwatersrand,naive,2025,2026,52.35
+University of the Witwatersrand,naive,2025,2027,52.35
+University of the Witwatersrand,naive,2025,2028,52.35
+Universität Heidelberg,naive,2025,2026,76.2
+Universität Heidelberg,naive,2025,2027,76.2
+Universität Heidelberg,naive,2025,2028,76.2
+Université Catholique de Louvain,naive,2025,2026,60.2
+Université Catholique de Louvain,naive,2025,2027,60.2
+Université Catholique de Louvain,naive,2025,2028,60.2
+Université Laval,linear,2025,2026,63.90666666666766
+Université Laval,linear,2025,2027,67.42606060606158
+Université Laval,linear,2025,2028,70.9454545454555
+Université Libre de Bruxelles,linear,2025,2026,62.561503759397965
+Université Libre de Bruxelles,linear,2025,2027,65.0245864661656
+Université Libre de Bruxelles,linear,2025,2028,67.48766917293233
+Université de Montréal,naive,2025,2026,64.3
+Université de Montréal,naive,2025,2027,64.3
+Université de Montréal,naive,2025,2028,64.3
+Uppsala University,naive,2025,2026,63.6
+Uppsala University,naive,2025,2027,63.6
+Uppsala University,naive,2025,2028,63.6
+Ural Federal University,linear,2025,2026,34.649999999999636
+Ural Federal University,linear,2025,2027,37.618181818181256
+Ural Federal University,linear,2025,2028,40.586363636363785
+Utrecht University,naive,2023,2024,68.2
+Utrecht University,naive,2023,2025,68.2
+Utrecht University,naive,2023,2026,68.2
+Utsunomiya University,naive,2025,2026,17.8
+Utsunomiya University,naive,2025,2027,17.8
+Utsunomiya University,naive,2025,2028,17.8
+V.N. Karazin Kharkiv National University,naive,2025,2026,17.8
+V.N. Karazin Kharkiv National University,naive,2025,2027,17.8
+V.N. Karazin Kharkiv National University,naive,2025,2028,17.8
+VIT University,linear,2025,2026,43.88194444444434
+VIT University,linear,2025,2027,47.13277777777785
+VIT University,linear,2025,2028,50.38361111111135
+VSB - Technical University of Ostrava,linear,2025,2026,27.203333333333376
+VSB - Technical University of Ostrava,linear,2025,2027,29.15848484848493
+VSB - Technical University of Ostrava,linear,2025,2028,31.113636363636488
+Vanderbilt University,linear,2025,2026,64.53238095238089
+Vanderbilt University,linear,2025,2027,65.00559523809522
+Vanderbilt University,linear,2025,2028,65.47880952380956
+Verona University,linear,2025,2026,56.60333333333347
+Verona University,linear,2025,2027,60.035757575758
+Verona University,linear,2025,2028,63.46818181818162
+Victoria University,naive,2025,2026,47.6
+Victoria University,naive,2025,2027,47.6
+Victoria University,naive,2025,2028,47.6
+Victoria University of Wellington,linear,2025,2026,54.09333333333325
+Victoria University of Wellington,linear,2025,2027,57.224848484848735
+Victoria University of Wellington,linear,2025,2028,60.35636363636331
+Vilnius University,linear,2025,2026,39.57333333333372
+Vilnius University,linear,2025,2027,42.16666666666697
+Vilnius University,linear,2025,2028,44.76000000000022
+Virginia Polytechnic Institute and State University,naive,2025,2026,54.7
+Virginia Polytechnic Institute and State University,naive,2025,2027,54.7
+Virginia Polytechnic Institute and State University,naive,2025,2028,54.7
+Voronezh State University,naive,2025,2026,17.8
+Voronezh State University,naive,2025,2027,17.8
+Voronezh State University,naive,2025,2028,17.8
+Vrije Universiteit Amsterdam,naive,2025,2026,62.7
+Vrije Universiteit Amsterdam,naive,2025,2027,62.7
+Vrije Universiteit Amsterdam,naive,2025,2028,62.7
+Vrije Universiteit Brussel,linear,2025,2026,67.3799999999992
+Vrije Universiteit Brussel,linear,2025,2027,71.4272727272728
+Vrije Universiteit Brussel,linear,2025,2028,75.47454545454639
+Wageningen University & Research,naive,2025,2026,72.7
+Wageningen University & Research,naive,2025,2027,72.7
+Wageningen University & Research,naive,2025,2028,72.7
+Wake Forest University,naive,2025,2026,47.6
+Wake Forest University,naive,2025,2027,47.6
+Wake Forest University,naive,2025,2028,47.6
+Warsaw University of Technology,linear,2025,2026,26.346666666666806
+Warsaw University of Technology,linear,2025,2027,27.431515151515214
+Warsaw University of Technology,linear,2025,2028,28.516363636364076
+Waseda University,linear,2025,2026,40.23000000000047
+Waseda University,linear,2025,2027,42.71090909090981
+Waseda University,linear,2025,2028,45.191818181818235
+Washington State University,linear,2025,2026,58.650000000000546
+Washington State University,linear,2025,2027,61.88090909090988
+Washington State University,linear,2025,2028,65.11181818181831
+Washington University in St Louis,naive,2025,2026,72.2
+Washington University in St Louis,naive,2025,2027,72.2
+Washington University in St Louis,naive,2025,2028,72.2
+Wayne State University,naive,2025,2026,44.599999999999994
+Wayne State University,naive,2025,2027,44.599999999999994
+Wayne State University,naive,2025,2028,44.599999999999994
+West University of Timişoara,linear,2025,2026,25.916666666666515
+West University of Timişoara,linear,2025,2027,27.462424242424277
+West University of Timişoara,linear,2025,2028,29.008181818181583
+Western Sydney University,naive,2025,2026,52.35
+Western Sydney University,naive,2025,2027,52.35
+Western Sydney University,naive,2025,2028,52.35
+Western University,linear,2025,2026,67.13000000000011
+Western University,linear,2025,2027,70.68181818181893
+Western University,linear,2025,2028,74.23363636363683
+William & Mary,linear,2025,2026,41.862997550520504
+William & Mary,linear,2025,2027,41.59721371708508
+William & Mary,linear,2025,2028,41.33142988364966
+Wuhan University,linear,2025,2026,74.01000000000204
+Wuhan University,linear,2025,2027,79.36818181818307
+Wuhan University,linear,2025,2028,84.72636363636411
+Xiamen University,linear,2025,2026,58.75
+Xiamen University,linear,2025,2027,62.64727272727214
+Xiamen University,linear,2025,2028,66.54454545454519
+Xiangtan University,naive,2025,2026,27.9
+Xiangtan University,naive,2025,2027,27.9
+Xiangtan University,naive,2025,2028,27.9
+Xidian University,linear,2025,2026,44.876666666667006
+Xidian University,linear,2025,2027,48.602424242424604
+Xidian University,linear,2025,2028,52.32818181818129
+Xi’an Jiaotong University,linear,2025,2026,62.18666666666468
+Xi’an Jiaotong University,linear,2025,2027,66.73878787878675
+Xi’an Jiaotong University,linear,2025,2028,71.29090909090701
+Yale University,naive,2025,2026,94.1
+Yale University,naive,2025,2027,94.1
+Yale University,naive,2025,2028,94.1
+Yamagata University,linear,2025,2026,24.21527777777783
+Yamagata University,linear,2025,2027,24.852777777777874
+Yamagata University,linear,2025,2028,25.49027777777792
+Yamaguchi University,naive,2025,2026,17.8
+Yamaguchi University,naive,2025,2027,17.8
+Yamaguchi University,naive,2025,2028,17.8
+Yazd University,linear,2025,2026,29.451388888889596
+Yazd University,linear,2025,2027,31.557222222222663
+Yazd University,linear,2025,2028,33.66305555555573
+Yeungnam University,linear,2025,2026,44.3666666666677
+Yeungnam University,linear,2025,2027,47.46787878787927
+Yeungnam University,linear,2025,2028,50.569090909091756
+Yokohama City University,naive,2025,2026,32.55
+Yokohama City University,naive,2025,2027,32.55
+Yokohama City University,naive,2025,2028,32.55
+Yokohama National University,linear,2025,2026,29.070000000000164
+Yokohama National University,linear,2025,2027,31.090000000000146
+Yokohama National University,linear,2025,2028,33.11000000000058
+York University,linear,2025,2026,55.72666666666646
+York University,linear,2025,2027,58.73606060606107
+York University,linear,2025,2028,61.74545454545478
+Yuan Ze University,linear,2025,2026,31.14333333333343
+Yuan Ze University,linear,2025,2027,33.35939393939407
+Yuan Ze University,linear,2025,2028,35.575454545454704
+Yıldız Technical University,linear,2025,2026,38.710000000000036
+Yıldız Technical University,linear,2025,2027,42.03375000000051
+Yıldız Technical University,linear,2025,2028,45.35750000000007
+Zhejiang University,linear,2025,2026,78.48784530386638
+Zhejiang University,linear,2025,2027,81.9652209944743
+Zhejiang University,linear,2025,2028,85.44259668508221
+École Centrale de Lyon,linear,2025,2026,39.13472222222208
+École Centrale de Lyon,linear,2025,2027,40.85388888888883
+École Centrale de Lyon,linear,2025,2028,42.573055555555584
+École Nationale des Ponts et Chaussées - Institut Polytechnique de Paris,naive,2025,2026,44.599999999999994
+École Nationale des Ponts et Chaussées - Institut Polytechnique de Paris,naive,2025,2027,44.599999999999994
+École Nationale des Ponts et Chaussées - Institut Polytechnique de Paris,naive,2025,2028,44.599999999999994
+École Normale Supérieure de Lyon,naive,2025,2026,54.7
+École Normale Supérieure de Lyon,naive,2025,2027,54.7
+École Normale Supérieure de Lyon,naive,2025,2028,54.7
+École Polytechnique Fédérale de Lausanne,linear,2025,2026,80.69999999999982
+École Polytechnique Fédérale de Lausanne,linear,2025,2027,81.53499999999985
+École Polytechnique Fédérale de Lausanne,linear,2025,2028,82.36999999999989
+École Polytechnique – Institut Polytechnique de Paris,linear,2021,2022,59.40363636363634
+École Polytechnique – Institut Polytechnique de Paris,linear,2021,2023,58.99818181818182
+École Polytechnique – Institut Polytechnique de Paris,linear,2021,2024,58.5927272727273
+Örebro University,naive,2025,2026,44.599999999999994
+Örebro University,naive,2025,2027,44.599999999999994
+Örebro University,naive,2025,2028,44.599999999999994
