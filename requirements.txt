@@ -1,9 +1,12 @@
 pandas
 numpy
 matplotlib
+plotly
 pyarrow
 scikit-learn
 xgboost
 dash
 scikit-optimize
 prophet
+streamlit
+pydantic
