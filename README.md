@@ -67,7 +67,7 @@ export BACKTEST_RAW_PATH="outputs/backtest/backtest_raw_results.csv"
 
 # 3) spuštění
 streamlit run app.py
-
+```
 Aplikace poběží na http://localhost:8501.
 
 
@@ -155,7 +155,9 @@ export BACKTEST_RAW_PATH="outputs/backtest/backtest_raw_results.csv"
 
 # 3) start
 streamlit run app.py
+```
 The app runs at http://localhost:8501.
+
 
 ## Metrics
 
