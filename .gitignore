@@ -28,3 +28,6 @@ data/raw/
 
 # Raw results
 outputs/tuning/prophet/tuning_raw_results.csv
+
+# Streamlit
+.streamlit/secrets.toml
