@@ -24,7 +24,7 @@ venv/
 # Data & models 
 data/raw/
 *.joblib
-*.parquet
+*full.parquet
 
 # Raw results
 outputs/tuning/prophet/tuning_raw_results.csv
