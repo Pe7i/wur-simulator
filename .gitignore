@@ -28,4 +28,3 @@ data/raw/
 
 # Raw results
 outputs/tuning/prophet/tuning_raw_results.csv
-outputs/backtest/backtest_raw_results.csv
